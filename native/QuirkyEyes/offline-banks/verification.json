@@ -1,0 +1,3538 @@
+[
+  {
+    "character": "MIK",
+    "total": 166,
+    "mapped": [
+      {
+        "target": "MIK_FACE_ADMIRATION",
+        "source": "MIK_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_ADMIRATION_CL",
+        "source": "MIK_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_ADMIRATION_OLD",
+        "source": "MIK_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_ADMIRATION_OLD_CL",
+        "source": "MIK_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_CLARIFYING",
+        "source": "MIK_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_CLARIFYING_CL",
+        "source": "MIK_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_CLARIFYING_OLD",
+        "source": "MIK_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_CLARIFYING_OLD_CL",
+        "source": "MIK_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_CLOSE",
+        "source": "MIK_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_CLOSE_OLD",
+        "source": "MIK_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_COOL",
+        "source": "MIK_FACE_COOL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_COOL_CL",
+        "source": "MIK_FACE_COOL_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_DAZZLING",
+        "source": "MIK_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_DAZZLING_CL",
+        "source": "MIK_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_DAZZLING_OLD",
+        "source": "MIK_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_DAZZLING_OLD_CL",
+        "source": "MIK_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_EYEBROW_UP_LEFT",
+        "source": "MIK_FACE_EYEBROW_UP_LEFT",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_EYEBROW_UP_LEFT_CL",
+        "source": "MIK_FACE_EYEBROW_UP_LEFT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_EYEBROW_UP_RIGHT",
+        "source": "MIK_FACE_EYEBROW_UP_RIGHT",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_EYEBROW_UP_RIGHT_CL",
+        "source": "MIK_FACE_EYEBROW_UP_RIGHT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENKI",
+        "source": "MIK_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENKI_CL",
+        "source": "MIK_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENKI_OLD",
+        "source": "MIK_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENKI_OLD_CL",
+        "source": "MIK_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENTLE",
+        "source": "MIK_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENTLE_CL",
+        "source": "MIK_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENTLE_OLD",
+        "source": "MIK_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_GENTLE_OLD_CL",
+        "source": "MIK_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KIRI",
+        "source": "MIK_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KIRI_CL",
+        "source": "MIK_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KIRI_OLD",
+        "source": "MIK_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KIRI_OLD_CL",
+        "source": "MIK_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KOMARIEGAO",
+        "source": "MIK_FACE_KOMARIEGAO",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KOMARIWARAI",
+        "source": "MIK_FACE_KOMARIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KOMARIWARAI_CL",
+        "source": "MIK_FACE_KOMARIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KONWAKU",
+        "source": "MIK_FACE_KONWAKU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KONWAKU_CL",
+        "source": "MIK_FACE_KONWAKU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KUMON",
+        "source": "MIK_FACE_KUMON",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KUMON_CL",
+        "source": "MIK_FACE_KUMON_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KUTSUU",
+        "source": "MIK_FACE_KUTSUU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_KUTSUU_CL",
+        "source": "MIK_FACE_KUTSUU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_LASCIVIOUS",
+        "source": "MIK_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_LASCIVIOUS_CL",
+        "source": "MIK_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_LASCIVIOUS_OLD",
+        "source": "MIK_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_LASCIVIOUS_OLD_CL",
+        "source": "MIK_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_LAUGH",
+        "source": "MIK_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_LAUGH_OLD",
+        "source": "MIK_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAGASI",
+        "source": "MIK_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAGASI_CL",
+        "source": "MIK_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAGASI_OLD",
+        "source": "MIK_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAGASI_OLD_CL",
+        "source": "MIK_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAKI",
+        "source": "MIK_FACE_NAKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAKI_CL",
+        "source": "MIK_FACE_NAKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAYAMI",
+        "source": "MIK_FACE_NAYAMI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_NAYAMI_CL",
+        "source": "MIK_FACE_NAYAMI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_OMOU",
+        "source": "MIK_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_OMOU_CL",
+        "source": "MIK_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_OMOU_OLD",
+        "source": "MIK_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_OMOU_OLD_CL",
+        "source": "MIK_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_RESET",
+        "source": "MIK_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_RESET_OLD",
+        "source": "MIK_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SAD",
+        "source": "MIK_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SAD_CL",
+        "source": "MIK_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SAD_OLD",
+        "source": "MIK_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SAD_OLD_CL",
+        "source": "MIK_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETTLED",
+        "source": "MIK_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETTLED_CL",
+        "source": "MIK_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETTLED_OLD",
+        "source": "MIK_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETTLED_OLD_CL",
+        "source": "MIK_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETUNA",
+        "source": "MIK_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETUNA_CL",
+        "source": "MIK_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETUNA_OLD",
+        "source": "MIK_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SETUNA_OLD_CL",
+        "source": "MIK_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SMILE",
+        "source": "MIK_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SMILE_CL",
+        "source": "MIK_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SMILE_OLD",
+        "source": "MIK_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SMILE_OLD_CL",
+        "source": "MIK_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_STRONG",
+        "source": "MIK_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_STRONG_CL",
+        "source": "MIK_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_STRONG_OLD",
+        "source": "MIK_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_STRONG_OLD_CL",
+        "source": "MIK_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SUPSERIOUS",
+        "source": "MIK_FACE_SUPSERIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SUPSERIOUS_CL",
+        "source": "MIK_FACE_SUPSERIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SURPRISE",
+        "source": "MIK_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SURPRISE_CL",
+        "source": "MIK_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SURPRISE_OLD",
+        "source": "MIK_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_SURPRISE_OLD_CL",
+        "source": "MIK_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_TSUYOKIWARAI",
+        "source": "MIK_FACE_TSUYOKIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_TSUYOKIWARAI_CL",
+        "source": "MIK_FACE_TSUYOKIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_UTURO",
+        "source": "MIK_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_UTURO_CL",
+        "source": "MIK_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_UTURO_OLD",
+        "source": "MIK_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_UTURO_OLD_CL",
+        "source": "MIK_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_WINKG_L",
+        "source": "MIK_FACE_WINKG_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_WINKG_R",
+        "source": "MIK_FACE_WINKG_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_WINK_L",
+        "source": "MIK_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_WINK_L_OLD",
+        "source": "MIK_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_WINK_R",
+        "source": "MIK_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_WINK_R_OLD",
+        "source": "MIK_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_YARU",
+        "source": "MIK_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_YARU_CL",
+        "source": "MIK_FACE_YARU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_YARU_OLD",
+        "source": "MIK_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MIK_FACE_YARU_OLD_CL",
+        "source": "MIK_FACE_YARU_CL",
+        "eyeBones": 32
+      }
+    ],
+    "unmatched": [
+      "MIK_EYES_DOWN_LEFT_OLD",
+      "MIK_EYES_DOWN_OLD",
+      "MIK_EYES_DOWN_RIGHT_OLD",
+      "MIK_EYES_LEFT_OLD",
+      "MIK_EYES_MOVE_L_R_OLD",
+      "MIK_EYES_MOVE_UL_DR_OLD",
+      "MIK_EYES_MOVE_UR_DL_OLD",
+      "MIK_EYES_MOVE_U_D_OLD",
+      "MIK_EYES_RESET_OLD",
+      "MIK_EYES_RIGHT_OLD",
+      "MIK_EYES_UP_LEFT_OLD",
+      "MIK_EYES_UP_OLD",
+      "MIK_EYES_UP_RIGHT_OLD",
+      "MIK_FACE_CRY",
+      "MIK_FACE_CRY_OLD",
+      "MIK_FACE_NEW_IKARI_OLD",
+      "MIK_FACE_NEW_IKARI_OLD_CL",
+      "MIK_FACE_NIRAMI_OLD",
+      "MIK_FACE_NIRAMI_OLD_CL",
+      "MIK_FACE_WINK_FT_OLD_CL",
+      "MIK_FACE_WINK_OLD",
+      "MIK_KUCHI_A",
+      "MIK_KUCHI_A_OLD",
+      "MIK_KUCHI_CHU",
+      "MIK_KUCHI_CHU_OLD",
+      "MIK_KUCHI_E",
+      "MIK_KUCHI_E_DOWN",
+      "MIK_KUCHI_E_OLD",
+      "MIK_KUCHI_HAMISE",
+      "MIK_KUCHI_HAMISE_DOWN",
+      "MIK_KUCHI_HAMISE_E",
+      "MIK_KUCHI_HE",
+      "MIK_KUCHI_HERAHERA",
+      "MIK_KUCHI_HE_OLD",
+      "MIK_KUCHI_HE_S",
+      "MIK_KUCHI_I",
+      "MIK_KUCHI_I_OLD",
+      "MIK_KUCHI_MOGUMOGU",
+      "MIK_KUCHI_NEKO",
+      "MIK_KUCHI_NEUTRAL",
+      "MIK_KUCHI_NIYA",
+      "MIK_KUCHI_NIYA_OLD",
+      "MIK_KUCHI_O",
+      "MIK_KUCHI_O_OLD",
+      "MIK_KUCHI_PSP_A",
+      "MIK_KUCHI_PSP_E",
+      "MIK_KUCHI_PSP_NIYA",
+      "MIK_KUCHI_PSP_NIYARI",
+      "MIK_KUCHI_PSP_O",
+      "MIK_KUCHI_PSP_SURPRISE",
+      "MIK_KUCHI_RESET",
+      "MIK_KUCHI_RESET_OLD",
+      "MIK_KUCHI_SAKEBI",
+      "MIK_KUCHI_SAKEBI_L",
+      "MIK_KUCHI_SANKAKU",
+      "MIK_KUCHI_SHIKAKU",
+      "MIK_KUCHI_SMILE",
+      "MIK_KUCHI_SMILE_L",
+      "MIK_KUCHI_SMILE_OLD",
+      "MIK_KUCHI_SURPRISE",
+      "MIK_KUCHI_SURPRISE_OLD",
+      "MIK_KUCHI_U",
+      "MIK_KUCHI_U_OLD"
+    ],
+    "missingBones": 0,
+    "nonEyeChannelsPreserved": true
+  },
+  {
+    "character": "RIN",
+    "total": 166,
+    "mapped": [
+      {
+        "target": "RIN_FACE_ADMIRATION",
+        "source": "RIN_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_ADMIRATION_CL",
+        "source": "RIN_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_ADMIRATION_OLD",
+        "source": "RIN_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_ADMIRATION_OLD_CL",
+        "source": "RIN_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_CLARIFYING",
+        "source": "RIN_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_CLARIFYING_CL",
+        "source": "RIN_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_CLARIFYING_OLD",
+        "source": "RIN_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_CLARIFYING_OLD_CL",
+        "source": "RIN_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_CLOSE",
+        "source": "RIN_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_CLOSE_OLD",
+        "source": "RIN_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_COOL",
+        "source": "RIN_FACE_COOL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_COOL_CL",
+        "source": "RIN_FACE_COOL_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_DAZZLING",
+        "source": "RIN_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_DAZZLING_CL",
+        "source": "RIN_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_DAZZLING_OLD",
+        "source": "RIN_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_DAZZLING_OLD_CL",
+        "source": "RIN_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_EYEBROW_UP_LEFT",
+        "source": "RIN_FACE_EYEBROW_UP_LEFT",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_EYEBROW_UP_LEFT_CL",
+        "source": "RIN_FACE_EYEBROW_UP_LEFT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_EYEBROW_UP_RIGHT",
+        "source": "RIN_FACE_EYEBROW_UP_RIGHT",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_EYEBROW_UP_RIGHT_CL",
+        "source": "RIN_FACE_EYEBROW_UP_RIGHT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENKI",
+        "source": "RIN_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENKI_CL",
+        "source": "RIN_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENKI_OLD",
+        "source": "RIN_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENKI_OLD_CL",
+        "source": "RIN_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENTLE",
+        "source": "RIN_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENTLE_CL",
+        "source": "RIN_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENTLE_OLD",
+        "source": "RIN_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_GENTLE_OLD_CL",
+        "source": "RIN_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KIRI",
+        "source": "RIN_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KIRI_CL",
+        "source": "RIN_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KIRI_OLD",
+        "source": "RIN_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KIRI_OLD_CL",
+        "source": "RIN_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KOMARIEGAO",
+        "source": "RIN_FACE_KOMARIEGAO",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KOMARIWARAI",
+        "source": "RIN_FACE_KOMARIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KOMARIWARAI_CL",
+        "source": "RIN_FACE_KOMARIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KONWAKU",
+        "source": "RIN_FACE_KONWAKU",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KONWAKU_CL",
+        "source": "RIN_FACE_KONWAKU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KUMON",
+        "source": "RIN_FACE_KUMON",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KUMON_CL",
+        "source": "RIN_FACE_KUMON_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KUTSUU",
+        "source": "RIN_FACE_KUTSUU",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_KUTSUU_CL",
+        "source": "RIN_FACE_KUTSUU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_LASCIVIOUS",
+        "source": "RIN_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_LASCIVIOUS_CL",
+        "source": "RIN_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_LASCIVIOUS_OLD",
+        "source": "RIN_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_LASCIVIOUS_OLD_CL",
+        "source": "RIN_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_LAUGH",
+        "source": "RIN_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_LAUGH_OLD",
+        "source": "RIN_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAGASI",
+        "source": "RIN_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAGASI_CL",
+        "source": "RIN_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAGASI_OLD",
+        "source": "RIN_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAGASI_OLD_CL",
+        "source": "RIN_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAKI",
+        "source": "RIN_FACE_NAKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAKI_CL",
+        "source": "RIN_FACE_NAKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAYAMI",
+        "source": "RIN_FACE_NAYAMI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_NAYAMI_CL",
+        "source": "RIN_FACE_NAYAMI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_OMOU",
+        "source": "RIN_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_OMOU_CL",
+        "source": "RIN_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_OMOU_OLD",
+        "source": "RIN_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_OMOU_OLD_CL",
+        "source": "RIN_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_RESET",
+        "source": "RIN_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_RESET_OLD",
+        "source": "RIN_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SAD",
+        "source": "RIN_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SAD_CL",
+        "source": "RIN_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SAD_OLD",
+        "source": "RIN_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SAD_OLD_CL",
+        "source": "RIN_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETTLED",
+        "source": "RIN_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETTLED_CL",
+        "source": "RIN_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETTLED_OLD",
+        "source": "RIN_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETTLED_OLD_CL",
+        "source": "RIN_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETUNA",
+        "source": "RIN_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETUNA_CL",
+        "source": "RIN_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETUNA_OLD",
+        "source": "RIN_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SETUNA_OLD_CL",
+        "source": "RIN_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SMILE",
+        "source": "RIN_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SMILE_CL",
+        "source": "RIN_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SMILE_OLD",
+        "source": "RIN_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SMILE_OLD_CL",
+        "source": "RIN_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_STRONG",
+        "source": "RIN_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_STRONG_CL",
+        "source": "RIN_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_STRONG_OLD",
+        "source": "RIN_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_STRONG_OLD_CL",
+        "source": "RIN_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SUPSERIOUS",
+        "source": "RIN_FACE_SUPSERIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SUPSERIOUS_CL",
+        "source": "RIN_FACE_SUPSERIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SURPRISE",
+        "source": "RIN_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SURPRISE_CL",
+        "source": "RIN_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SURPRISE_OLD",
+        "source": "RIN_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_SURPRISE_OLD_CL",
+        "source": "RIN_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_TSUYOKIWARAI",
+        "source": "RIN_FACE_TSUYOKIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_TSUYOKIWARAI_CL",
+        "source": "RIN_FACE_TSUYOKIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_UTURO",
+        "source": "RIN_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_UTURO_CL",
+        "source": "RIN_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_UTURO_OLD",
+        "source": "RIN_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_UTURO_OLD_CL",
+        "source": "RIN_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_WINKG_L",
+        "source": "RIN_FACE_WINKG_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_WINKG_R",
+        "source": "RIN_FACE_WINKG_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_WINK_L",
+        "source": "RIN_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_WINK_L_OLD",
+        "source": "RIN_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_WINK_R",
+        "source": "RIN_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_WINK_R_OLD",
+        "source": "RIN_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_YARU",
+        "source": "RIN_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_YARU_CL",
+        "source": "RIN_FACE_YARU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_YARU_OLD",
+        "source": "RIN_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "RIN_FACE_YARU_OLD_CL",
+        "source": "RIN_FACE_YARU_CL",
+        "eyeBones": 32
+      }
+    ],
+    "unmatched": [
+      "RIN_EYES_DOWN_LEFT_OLD",
+      "RIN_EYES_DOWN_OLD",
+      "RIN_EYES_DOWN_RIGHT_OLD",
+      "RIN_EYES_LEFT_OLD",
+      "RIN_EYES_MOVE_L_R_OLD",
+      "RIN_EYES_MOVE_UL_DR_OLD",
+      "RIN_EYES_MOVE_UR_DL_OLD",
+      "RIN_EYES_MOVE_U_D_OLD",
+      "RIN_EYES_RESET_OLD",
+      "RIN_EYES_RIGHT_OLD",
+      "RIN_EYES_UP_LEFT_OLD",
+      "RIN_EYES_UP_OLD",
+      "RIN_EYES_UP_RIGHT_OLD",
+      "RIN_FACE_CRY",
+      "RIN_FACE_CRY_OLD",
+      "RIN_FACE_NEW_IKARI_OLD",
+      "RIN_FACE_NEW_IKARI_OLD_CL",
+      "RIN_FACE_NIRAMI_OLD",
+      "RIN_FACE_NIRAMI_OLD_CL",
+      "RIN_FACE_WINK_FT_OLD_CL",
+      "RIN_FACE_WINK_OLD",
+      "RIN_KUCHI_A",
+      "RIN_KUCHI_A_OLD",
+      "RIN_KUCHI_CHU",
+      "RIN_KUCHI_CHU_OLD",
+      "RIN_KUCHI_E",
+      "RIN_KUCHI_E_DOWN",
+      "RIN_KUCHI_E_OLD",
+      "RIN_KUCHI_HAMISE",
+      "RIN_KUCHI_HAMISE_DOWN",
+      "RIN_KUCHI_HAMISE_E",
+      "RIN_KUCHI_HE",
+      "RIN_KUCHI_HERAHERA",
+      "RIN_KUCHI_HE_OLD",
+      "RIN_KUCHI_HE_S",
+      "RIN_KUCHI_I",
+      "RIN_KUCHI_I_OLD",
+      "RIN_KUCHI_MOGUMOGU",
+      "RIN_KUCHI_NEKO",
+      "RIN_KUCHI_NEUTRAL",
+      "RIN_KUCHI_NIYA",
+      "RIN_KUCHI_NIYA_OLD",
+      "RIN_KUCHI_O",
+      "RIN_KUCHI_O_OLD",
+      "RIN_KUCHI_PSP_A",
+      "RIN_KUCHI_PSP_E",
+      "RIN_KUCHI_PSP_NIYA",
+      "RIN_KUCHI_PSP_NIYARI",
+      "RIN_KUCHI_PSP_O",
+      "RIN_KUCHI_PSP_SURPRISE",
+      "RIN_KUCHI_RESET",
+      "RIN_KUCHI_RESET_OLD",
+      "RIN_KUCHI_SAKEBI",
+      "RIN_KUCHI_SAKEBI_L",
+      "RIN_KUCHI_SANKAKU",
+      "RIN_KUCHI_SHIKAKU",
+      "RIN_KUCHI_SMILE",
+      "RIN_KUCHI_SMILE_L",
+      "RIN_KUCHI_SMILE_OLD",
+      "RIN_KUCHI_SURPRISE",
+      "RIN_KUCHI_SURPRISE_OLD",
+      "RIN_KUCHI_U",
+      "RIN_KUCHI_U_OLD"
+    ],
+    "missingBones": 0,
+    "nonEyeChannelsPreserved": true
+  },
+  {
+    "character": "LEN",
+    "total": 170,
+    "mapped": [
+      {
+        "target": "LEN_FACE_ADMIRATION",
+        "source": "LEN_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_ADMIRATION_CL",
+        "source": "LEN_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_ADMIRATION_OLD",
+        "source": "LEN_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_ADMIRATION_OLD_CL",
+        "source": "LEN_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_CLARIFYING",
+        "source": "LEN_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_CLARIFYING_CL",
+        "source": "LEN_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_CLARIFYING_OLD",
+        "source": "LEN_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_CLARIFYING_OLD_CL",
+        "source": "LEN_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_CLOSE",
+        "source": "LEN_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_CLOSE_OLD",
+        "source": "LEN_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_COOL",
+        "source": "LEN_FACE_COOL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_COOL_CL",
+        "source": "LEN_FACE_COOL_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_DAZZLING",
+        "source": "LEN_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_DAZZLING_CL",
+        "source": "LEN_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_DAZZLING_OLD",
+        "source": "LEN_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_DAZZLING_OLD_CL",
+        "source": "LEN_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_EYEBROW_UP_LEFT",
+        "source": "LEN_FACE_EYEBROW_UP_LEFT",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_EYEBROW_UP_LEFT_CL",
+        "source": "LEN_FACE_EYEBROW_UP_LEFT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_EYEBROW_UP_RIGHT",
+        "source": "LEN_FACE_EYEBROW_UP_RIGHT",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_EYEBROW_UP_RIGHT_CL",
+        "source": "LEN_FACE_EYEBROW_UP_RIGHT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENKI",
+        "source": "LEN_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENKI_CL",
+        "source": "LEN_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENKI_OLD",
+        "source": "LEN_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENKI_OLD_CL",
+        "source": "LEN_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENTLE",
+        "source": "LEN_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENTLE_CL",
+        "source": "LEN_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENTLE_OLD",
+        "source": "LEN_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_GENTLE_OLD_CL",
+        "source": "LEN_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KIRI",
+        "source": "LEN_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KIRI_CL",
+        "source": "LEN_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KIRI_OLD",
+        "source": "LEN_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KIRI_OLD_CL",
+        "source": "LEN_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KOMARIEGAO",
+        "source": "LEN_FACE_KOMARIEGAO",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KOMARIWARAI",
+        "source": "LEN_FACE_KOMARIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KOMARIWARAI_CL",
+        "source": "LEN_FACE_KOMARIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KONWAKU",
+        "source": "LEN_FACE_KONWAKU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KONWAKU_CL",
+        "source": "LEN_FACE_KONWAKU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KUMON",
+        "source": "LEN_FACE_KUMON",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KUMON_CL",
+        "source": "LEN_FACE_KUMON_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KUTSUU",
+        "source": "LEN_FACE_KUTSUU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_KUTSUU_CL",
+        "source": "LEN_FACE_KUTSUU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_LASCIVIOUS",
+        "source": "LEN_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_LASCIVIOUS_CL",
+        "source": "LEN_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_LASCIVIOUS_OLD",
+        "source": "LEN_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_LASCIVIOUS_OLD_CL",
+        "source": "LEN_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_LAUGH",
+        "source": "LEN_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_LAUGH_OLD",
+        "source": "LEN_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAGASI",
+        "source": "LEN_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAGASI_CL",
+        "source": "LEN_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAGASI_OLD",
+        "source": "LEN_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAGASI_OLD_CL",
+        "source": "LEN_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAKI",
+        "source": "LEN_FACE_NAKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAKI_CL",
+        "source": "LEN_FACE_NAKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAYAMI",
+        "source": "LEN_FACE_NAYAMI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_NAYAMI_CL",
+        "source": "LEN_FACE_NAYAMI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_OMOU",
+        "source": "LEN_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_OMOU_CL",
+        "source": "LEN_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_OMOU_OLD",
+        "source": "LEN_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_OMOU_OLD_CL",
+        "source": "LEN_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_RESET",
+        "source": "LEN_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_RESET_OLD",
+        "source": "LEN_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SAD",
+        "source": "LEN_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SAD_CL",
+        "source": "LEN_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SAD_OLD",
+        "source": "LEN_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SAD_OLD_CL",
+        "source": "LEN_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETTLED",
+        "source": "LEN_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETTLED_CL",
+        "source": "LEN_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETTLED_OLD",
+        "source": "LEN_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETTLED_OLD_CL",
+        "source": "LEN_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETUNA",
+        "source": "LEN_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETUNA_CL",
+        "source": "LEN_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETUNA_OLD",
+        "source": "LEN_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SETUNA_OLD_CL",
+        "source": "LEN_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SMILE",
+        "source": "LEN_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SMILE_CL",
+        "source": "LEN_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SMILE_OLD",
+        "source": "LEN_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SMILE_OLD_CL",
+        "source": "LEN_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_STRONG",
+        "source": "LEN_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_STRONG_CL",
+        "source": "LEN_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_STRONG_OLD",
+        "source": "LEN_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_STRONG_OLD_CL",
+        "source": "LEN_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SUPSERIOUS",
+        "source": "LEN_FACE_SUPSERIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SUPSERIOUS_CL",
+        "source": "LEN_FACE_SUPSERIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SURPRISE",
+        "source": "LEN_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SURPRISE_CL",
+        "source": "LEN_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SURPRISE_OLD",
+        "source": "LEN_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_SURPRISE_OLD_CL",
+        "source": "LEN_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_TSUYOKIWARAI",
+        "source": "LEN_FACE_TSUYOKIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_TSUYOKIWARAI_CL",
+        "source": "LEN_FACE_TSUYOKIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_UTURO",
+        "source": "LEN_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_UTURO_CL",
+        "source": "LEN_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_UTURO_OLD",
+        "source": "LEN_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_UTURO_OLD_CL",
+        "source": "LEN_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_WINKG_L",
+        "source": "LEN_FACE_WINKG_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_WINKG_R",
+        "source": "LEN_FACE_WINKG_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_WINK_L",
+        "source": "LEN_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_WINK_L_OLD",
+        "source": "LEN_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_WINK_R",
+        "source": "LEN_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_WINK_R_OLD",
+        "source": "LEN_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_YARU",
+        "source": "LEN_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_YARU_CL",
+        "source": "LEN_FACE_YARU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_YARU_OLD",
+        "source": "LEN_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LEN_FACE_YARU_OLD_CL",
+        "source": "LEN_FACE_YARU_CL",
+        "eyeBones": 32
+      }
+    ],
+    "unmatched": [
+      "LEN_EYES_DOWN_LEFT_OLD",
+      "LEN_EYES_DOWN_OLD",
+      "LEN_EYES_DOWN_RIGHT_OLD",
+      "LEN_EYES_LEFT_OLD",
+      "LEN_EYES_MOVE_L_R_OLD",
+      "LEN_EYES_MOVE_UL_DR_OLD",
+      "LEN_EYES_MOVE_UR_DL_OLD",
+      "LEN_EYES_MOVE_U_D_OLD",
+      "LEN_EYES_RESET_OLD",
+      "LEN_EYES_RIGHT_OLD",
+      "LEN_EYES_UP_LEFT_OLD",
+      "LEN_EYES_UP_OLD",
+      "LEN_EYES_UP_RIGHT_OLD",
+      "LEN_FACE_CRY",
+      "LEN_FACE_CRY_OLD",
+      "LEN_FACE_NEW_IKARI",
+      "LEN_FACE_NEW_IKARI_CL",
+      "LEN_FACE_NEW_IKARI_OLD",
+      "LEN_FACE_NEW_IKARI_OLD_CL",
+      "LEN_FACE_NIRAMI_OLD",
+      "LEN_FACE_NIRAMI_OLD_CL",
+      "LEN_FACE_WINK",
+      "LEN_FACE_WINK_FT_CL",
+      "LEN_FACE_WINK_FT_OLD_CL",
+      "LEN_FACE_WINK_OLD",
+      "LEN_KUCHI_A",
+      "LEN_KUCHI_A_OLD",
+      "LEN_KUCHI_CHU",
+      "LEN_KUCHI_CHU_OLD",
+      "LEN_KUCHI_E",
+      "LEN_KUCHI_E_DOWN",
+      "LEN_KUCHI_E_OLD",
+      "LEN_KUCHI_HAMISE",
+      "LEN_KUCHI_HAMISE_DOWN",
+      "LEN_KUCHI_HAMISE_E",
+      "LEN_KUCHI_HE",
+      "LEN_KUCHI_HERAHERA",
+      "LEN_KUCHI_HE_OLD",
+      "LEN_KUCHI_HE_S",
+      "LEN_KUCHI_I",
+      "LEN_KUCHI_I_OLD",
+      "LEN_KUCHI_MOGUMOGU",
+      "LEN_KUCHI_NEKO",
+      "LEN_KUCHI_NEUTRAL",
+      "LEN_KUCHI_NIYA",
+      "LEN_KUCHI_NIYA_OLD",
+      "LEN_KUCHI_O",
+      "LEN_KUCHI_O_OLD",
+      "LEN_KUCHI_PSP_A",
+      "LEN_KUCHI_PSP_E",
+      "LEN_KUCHI_PSP_NIYA",
+      "LEN_KUCHI_PSP_NIYARI",
+      "LEN_KUCHI_PSP_O",
+      "LEN_KUCHI_PSP_SURPRISE",
+      "LEN_KUCHI_RESET",
+      "LEN_KUCHI_RESET_OLD",
+      "LEN_KUCHI_SAKEBI",
+      "LEN_KUCHI_SAKEBI_L",
+      "LEN_KUCHI_SANKAKU",
+      "LEN_KUCHI_SHIKAKU",
+      "LEN_KUCHI_SMILE",
+      "LEN_KUCHI_SMILE_L",
+      "LEN_KUCHI_SMILE_OLD",
+      "LEN_KUCHI_SURPRISE",
+      "LEN_KUCHI_SURPRISE_OLD",
+      "LEN_KUCHI_U",
+      "LEN_KUCHI_U_OLD"
+    ],
+    "missingBones": 0,
+    "nonEyeChannelsPreserved": true
+  },
+  {
+    "character": "LUK",
+    "total": 166,
+    "mapped": [
+      {
+        "target": "LUK_FACE_ADMIRATION",
+        "source": "LUK_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_ADMIRATION_CL",
+        "source": "LUK_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_ADMIRATION_OLD",
+        "source": "LUK_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_ADMIRATION_OLD_CL",
+        "source": "LUK_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_CLARIFYING",
+        "source": "LUK_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_CLARIFYING_CL",
+        "source": "LUK_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_CLARIFYING_OLD",
+        "source": "LUK_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_CLARIFYING_OLD_CL",
+        "source": "LUK_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_CLOSE",
+        "source": "LUK_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_CLOSE_OLD",
+        "source": "LUK_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_COOL",
+        "source": "LUK_FACE_COOL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_COOL_CL",
+        "source": "LUK_FACE_COOL_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_DAZZLING",
+        "source": "LUK_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_DAZZLING_CL",
+        "source": "LUK_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_DAZZLING_OLD",
+        "source": "LUK_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_DAZZLING_OLD_CL",
+        "source": "LUK_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_EYEBROW_UP_LEFT",
+        "source": "LUK_FACE_EYEBROW_UP_LEFT",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_EYEBROW_UP_LEFT_CL",
+        "source": "LUK_FACE_EYEBROW_UP_LEFT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_EYEBROW_UP_RIGHT",
+        "source": "LUK_FACE_EYEBROW_UP_RIGHT",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_EYEBROW_UP_RIGHT_CL",
+        "source": "LUK_FACE_EYEBROW_UP_RIGHT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENKI",
+        "source": "LUK_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENKI_CL",
+        "source": "LUK_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENKI_OLD",
+        "source": "LUK_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENKI_OLD_CL",
+        "source": "LUK_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENTLE",
+        "source": "LUK_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENTLE_CL",
+        "source": "LUK_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENTLE_OLD",
+        "source": "LUK_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_GENTLE_OLD_CL",
+        "source": "LUK_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KIRI",
+        "source": "LUK_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KIRI_CL",
+        "source": "LUK_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KIRI_OLD",
+        "source": "LUK_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KIRI_OLD_CL",
+        "source": "LUK_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KOMARIEGAO",
+        "source": "LUK_FACE_KOMARIEGAO",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KOMARIWARAI",
+        "source": "LUK_FACE_KOMARIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KOMARIWARAI_CL",
+        "source": "LUK_FACE_KOMARIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KONWAKU",
+        "source": "LUK_FACE_KONWAKU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KONWAKU_CL",
+        "source": "LUK_FACE_KONWAKU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KUMON",
+        "source": "LUK_FACE_KUMON",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KUMON_CL",
+        "source": "LUK_FACE_KUMON_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KUTSUU",
+        "source": "LUK_FACE_KUTSUU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_KUTSUU_CL",
+        "source": "LUK_FACE_KUTSUU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_LASCIVIOUS",
+        "source": "LUK_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_LASCIVIOUS_CL",
+        "source": "LUK_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_LASCIVIOUS_OLD",
+        "source": "LUK_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_LASCIVIOUS_OLD_CL",
+        "source": "LUK_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_LAUGH",
+        "source": "LUK_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_LAUGH_OLD",
+        "source": "LUK_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAGASI",
+        "source": "LUK_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAGASI_CL",
+        "source": "LUK_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAGASI_OLD",
+        "source": "LUK_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAGASI_OLD_CL",
+        "source": "LUK_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAKI",
+        "source": "LUK_FACE_NAKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAKI_CL",
+        "source": "LUK_FACE_NAKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAYAMI",
+        "source": "LUK_FACE_NAYAMI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_NAYAMI_CL",
+        "source": "LUK_FACE_NAYAMI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_OMOU",
+        "source": "LUK_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_OMOU_CL",
+        "source": "LUK_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_OMOU_OLD",
+        "source": "LUK_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_OMOU_OLD_CL",
+        "source": "LUK_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_RESET",
+        "source": "LUK_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_RESET_OLD",
+        "source": "LUK_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SAD",
+        "source": "LUK_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SAD_CL",
+        "source": "LUK_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SAD_OLD",
+        "source": "LUK_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SAD_OLD_CL",
+        "source": "LUK_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETTLED",
+        "source": "LUK_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETTLED_CL",
+        "source": "LUK_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETTLED_OLD",
+        "source": "LUK_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETTLED_OLD_CL",
+        "source": "LUK_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETUNA",
+        "source": "LUK_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETUNA_CL",
+        "source": "LUK_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETUNA_OLD",
+        "source": "LUK_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SETUNA_OLD_CL",
+        "source": "LUK_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SMILE",
+        "source": "LUK_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SMILE_CL",
+        "source": "LUK_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SMILE_OLD",
+        "source": "LUK_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SMILE_OLD_CL",
+        "source": "LUK_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_STRONG",
+        "source": "LUK_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_STRONG_CL",
+        "source": "LUK_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_STRONG_OLD",
+        "source": "LUK_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_STRONG_OLD_CL",
+        "source": "LUK_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SUPSERIOUS",
+        "source": "LUK_FACE_SUPSERIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SUPSERIOUS_CL",
+        "source": "LUK_FACE_SUPSERIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SURPRISE",
+        "source": "LUK_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SURPRISE_CL",
+        "source": "LUK_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SURPRISE_OLD",
+        "source": "LUK_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_SURPRISE_OLD_CL",
+        "source": "LUK_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_TSUYOKIWARAI",
+        "source": "LUK_FACE_TSUYOKIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_TSUYOKIWARAI_CL",
+        "source": "LUK_FACE_TSUYOKIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_UTURO",
+        "source": "LUK_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_UTURO_CL",
+        "source": "LUK_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_UTURO_OLD",
+        "source": "LUK_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_UTURO_OLD_CL",
+        "source": "LUK_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_WINKG_L",
+        "source": "LUK_FACE_WINKG_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_WINKG_R",
+        "source": "LUK_FACE_WINKG_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_WINK_L",
+        "source": "LUK_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_WINK_L_OLD",
+        "source": "LUK_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_WINK_R",
+        "source": "LUK_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_WINK_R_OLD",
+        "source": "LUK_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_YARU",
+        "source": "LUK_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_YARU_CL",
+        "source": "LUK_FACE_YARU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_YARU_OLD",
+        "source": "LUK_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "LUK_FACE_YARU_OLD_CL",
+        "source": "LUK_FACE_YARU_CL",
+        "eyeBones": 32
+      }
+    ],
+    "unmatched": [
+      "LUK_EYES_DOWN_LEFT_OLD",
+      "LUK_EYES_DOWN_OLD",
+      "LUK_EYES_DOWN_RIGHT_OLD",
+      "LUK_EYES_LEFT_OLD",
+      "LUK_EYES_MOVE_L_R_OLD",
+      "LUK_EYES_MOVE_UL_DR_OLD",
+      "LUK_EYES_MOVE_UR_DL_OLD",
+      "LUK_EYES_MOVE_U_D_OLD",
+      "LUK_EYES_RESET_OLD",
+      "LUK_EYES_RIGHT_OLD",
+      "LUK_EYES_UP_LEFT_OLD",
+      "LUK_EYES_UP_OLD",
+      "LUK_EYES_UP_RIGHT_OLD",
+      "LUK_FACE_CRY",
+      "LUK_FACE_CRY_OLD",
+      "LUK_FACE_NEW_IKARI_OLD",
+      "LUK_FACE_NEW_IKARI_OLD_CL",
+      "LUK_FACE_NIRAMI_OLD",
+      "LUK_FACE_NIRAMI_OLD_CL",
+      "LUK_FACE_WINK_FT_OLD_CL",
+      "LUK_FACE_WINK_OLD",
+      "LUK_KUCHI_A",
+      "LUK_KUCHI_A_OLD",
+      "LUK_KUCHI_CHU",
+      "LUK_KUCHI_CHU_OLD",
+      "LUK_KUCHI_E",
+      "LUK_KUCHI_E_DOWN",
+      "LUK_KUCHI_E_OLD",
+      "LUK_KUCHI_HAMISE",
+      "LUK_KUCHI_HAMISE_DOWN",
+      "LUK_KUCHI_HAMISE_E",
+      "LUK_KUCHI_HE",
+      "LUK_KUCHI_HERAHERA",
+      "LUK_KUCHI_HE_OLD",
+      "LUK_KUCHI_HE_S",
+      "LUK_KUCHI_I",
+      "LUK_KUCHI_I_OLD",
+      "LUK_KUCHI_MOGUMOGU",
+      "LUK_KUCHI_NEKO",
+      "LUK_KUCHI_NEUTRAL",
+      "LUK_KUCHI_NIYA",
+      "LUK_KUCHI_NIYA_OLD",
+      "LUK_KUCHI_O",
+      "LUK_KUCHI_O_OLD",
+      "LUK_KUCHI_PSP_A",
+      "LUK_KUCHI_PSP_E",
+      "LUK_KUCHI_PSP_NIYA",
+      "LUK_KUCHI_PSP_NIYARI",
+      "LUK_KUCHI_PSP_O",
+      "LUK_KUCHI_PSP_SURPRISE",
+      "LUK_KUCHI_RESET",
+      "LUK_KUCHI_RESET_OLD",
+      "LUK_KUCHI_SAKEBI",
+      "LUK_KUCHI_SAKEBI_L",
+      "LUK_KUCHI_SANKAKU",
+      "LUK_KUCHI_SHIKAKU",
+      "LUK_KUCHI_SMILE",
+      "LUK_KUCHI_SMILE_L",
+      "LUK_KUCHI_SMILE_OLD",
+      "LUK_KUCHI_SURPRISE",
+      "LUK_KUCHI_SURPRISE_OLD",
+      "LUK_KUCHI_U",
+      "LUK_KUCHI_U_OLD"
+    ],
+    "missingBones": 0,
+    "nonEyeChannelsPreserved": true
+  },
+  {
+    "character": "KAI",
+    "total": 170,
+    "mapped": [
+      {
+        "target": "KAI_FACE_ADMIRATION",
+        "source": "KAI_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_ADMIRATION_CL",
+        "source": "KAI_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_ADMIRATION_OLD",
+        "source": "KAI_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_ADMIRATION_OLD_CL",
+        "source": "KAI_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_CLARIFYING",
+        "source": "KAI_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_CLARIFYING_CL",
+        "source": "KAI_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_CLARIFYING_OLD",
+        "source": "KAI_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_CLARIFYING_OLD_CL",
+        "source": "KAI_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_CLOSE",
+        "source": "KAI_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_CLOSE_OLD",
+        "source": "KAI_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_COOL",
+        "source": "KAI_FACE_COOL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_COOL_CL",
+        "source": "KAI_FACE_COOL_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_DAZZLING",
+        "source": "KAI_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_DAZZLING_CL",
+        "source": "KAI_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_DAZZLING_OLD",
+        "source": "KAI_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_DAZZLING_OLD_CL",
+        "source": "KAI_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_EYEBROW_UP_LEFT",
+        "source": "KAI_FACE_EYEBROW_UP_LEFT",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_EYEBROW_UP_LEFT_CL",
+        "source": "KAI_FACE_EYEBROW_UP_LEFT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_EYEBROW_UP_RIGHT",
+        "source": "KAI_FACE_EYEBROW_UP_RIGHT",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_EYEBROW_UP_RIGHT_CL",
+        "source": "KAI_FACE_EYEBROW_UP_RIGHT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENKI",
+        "source": "KAI_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENKI_CL",
+        "source": "KAI_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENKI_OLD",
+        "source": "KAI_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENKI_OLD_CL",
+        "source": "KAI_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENTLE",
+        "source": "KAI_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENTLE_CL",
+        "source": "KAI_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENTLE_OLD",
+        "source": "KAI_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_GENTLE_OLD_CL",
+        "source": "KAI_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KIRI",
+        "source": "KAI_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KIRI_CL",
+        "source": "KAI_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KIRI_OLD",
+        "source": "KAI_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KIRI_OLD_CL",
+        "source": "KAI_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KOMARIEGAO",
+        "source": "KAI_FACE_KOMARIEGAO",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KOMARIWARAI",
+        "source": "KAI_FACE_KOMARIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KOMARIWARAI_CL",
+        "source": "KAI_FACE_KOMARIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KONWAKU",
+        "source": "KAI_FACE_KONWAKU",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KONWAKU_CL",
+        "source": "KAI_FACE_KONWAKU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KUMON",
+        "source": "KAI_FACE_KUMON",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KUMON_CL",
+        "source": "KAI_FACE_KUMON_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KUTSUU",
+        "source": "KAI_FACE_KUTSUU",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_KUTSUU_CL",
+        "source": "KAI_FACE_KUTSUU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_LASCIVIOUS",
+        "source": "KAI_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_LASCIVIOUS_CL",
+        "source": "KAI_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_LASCIVIOUS_OLD",
+        "source": "KAI_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_LASCIVIOUS_OLD_CL",
+        "source": "KAI_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_LAUGH",
+        "source": "KAI_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_LAUGH_OLD",
+        "source": "KAI_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAGASI",
+        "source": "KAI_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAGASI_CL",
+        "source": "KAI_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAGASI_OLD",
+        "source": "KAI_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAGASI_OLD_CL",
+        "source": "KAI_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAKI",
+        "source": "KAI_FACE_NAKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAKI_CL",
+        "source": "KAI_FACE_NAKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAYAMI",
+        "source": "KAI_FACE_NAYAMI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_NAYAMI_CL",
+        "source": "KAI_FACE_NAYAMI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_OMOU",
+        "source": "KAI_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_OMOU_CL",
+        "source": "KAI_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_OMOU_OLD",
+        "source": "KAI_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_OMOU_OLD_CL",
+        "source": "KAI_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_RESET",
+        "source": "KAI_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_RESET_OLD",
+        "source": "KAI_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SAD",
+        "source": "KAI_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SAD_CL",
+        "source": "KAI_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SAD_OLD",
+        "source": "KAI_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SAD_OLD_CL",
+        "source": "KAI_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETTLED",
+        "source": "KAI_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETTLED_CL",
+        "source": "KAI_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETTLED_OLD",
+        "source": "KAI_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETTLED_OLD_CL",
+        "source": "KAI_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETUNA",
+        "source": "KAI_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETUNA_CL",
+        "source": "KAI_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETUNA_OLD",
+        "source": "KAI_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SETUNA_OLD_CL",
+        "source": "KAI_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SMILE",
+        "source": "KAI_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SMILE_CL",
+        "source": "KAI_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SMILE_OLD",
+        "source": "KAI_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SMILE_OLD_CL",
+        "source": "KAI_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_STRONG",
+        "source": "KAI_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_STRONG_CL",
+        "source": "KAI_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_STRONG_OLD",
+        "source": "KAI_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_STRONG_OLD_CL",
+        "source": "KAI_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SUPSERIOUS",
+        "source": "KAI_FACE_SUPSERIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SUPSERIOUS_CL",
+        "source": "KAI_FACE_SUPSERIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SURPRISE",
+        "source": "KAI_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SURPRISE_CL",
+        "source": "KAI_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SURPRISE_OLD",
+        "source": "KAI_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_SURPRISE_OLD_CL",
+        "source": "KAI_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_TSUYOKIWARAI",
+        "source": "KAI_FACE_TSUYOKIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_TSUYOKIWARAI_CL",
+        "source": "KAI_FACE_TSUYOKIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_UTURO",
+        "source": "KAI_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_UTURO_CL",
+        "source": "KAI_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_UTURO_OLD",
+        "source": "KAI_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_UTURO_OLD_CL",
+        "source": "KAI_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_WINKG_L",
+        "source": "KAI_FACE_WINKG_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_WINKG_R",
+        "source": "KAI_FACE_WINKG_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_WINK_L",
+        "source": "KAI_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_WINK_L_OLD",
+        "source": "KAI_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_WINK_R",
+        "source": "KAI_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_WINK_R_OLD",
+        "source": "KAI_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_YARU",
+        "source": "KAI_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_YARU_CL",
+        "source": "KAI_FACE_YARU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_YARU_OLD",
+        "source": "KAI_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "KAI_FACE_YARU_OLD_CL",
+        "source": "KAI_FACE_YARU_CL",
+        "eyeBones": 32
+      }
+    ],
+    "unmatched": [
+      "KAI_EYES_DOWN_LEFT_OLD",
+      "KAI_EYES_DOWN_OLD",
+      "KAI_EYES_DOWN_RIGHT_OLD",
+      "KAI_EYES_LEFT_OLD",
+      "KAI_EYES_MOVE_L_R_OLD",
+      "KAI_EYES_MOVE_UL_DR_OLD",
+      "KAI_EYES_MOVE_UR_DL_OLD",
+      "KAI_EYES_MOVE_U_D_OLD",
+      "KAI_EYES_RESET_OLD",
+      "KAI_EYES_RIGHT_OLD",
+      "KAI_EYES_UP_LEFT_OLD",
+      "KAI_EYES_UP_OLD",
+      "KAI_EYES_UP_RIGHT_OLD",
+      "KAI_FACE_CRY",
+      "KAI_FACE_CRY_OLD",
+      "KAI_FACE_NEW_IKARI",
+      "KAI_FACE_NEW_IKARI_CL",
+      "KAI_FACE_NEW_IKARI_OLD",
+      "KAI_FACE_NEW_IKARI_OLD_CL",
+      "KAI_FACE_NIRAMI_OLD",
+      "KAI_FACE_NIRAMI_OLD_CL",
+      "KAI_FACE_WINK",
+      "KAI_FACE_WINK_FT_CL",
+      "KAI_FACE_WINK_FT_OLD_CL",
+      "KAI_FACE_WINK_OLD",
+      "KAI_KUCHI_A",
+      "KAI_KUCHI_A_OLD",
+      "KAI_KUCHI_CHU",
+      "KAI_KUCHI_CHU_OLD",
+      "KAI_KUCHI_E",
+      "KAI_KUCHI_E_DOWN",
+      "KAI_KUCHI_E_OLD",
+      "KAI_KUCHI_HAMISE",
+      "KAI_KUCHI_HAMISE_DOWN",
+      "KAI_KUCHI_HAMISE_E",
+      "KAI_KUCHI_HE",
+      "KAI_KUCHI_HERAHERA",
+      "KAI_KUCHI_HE_OLD",
+      "KAI_KUCHI_HE_S",
+      "KAI_KUCHI_I",
+      "KAI_KUCHI_I_OLD",
+      "KAI_KUCHI_MOGUMOGU",
+      "KAI_KUCHI_NEKO",
+      "KAI_KUCHI_NEUTRAL",
+      "KAI_KUCHI_NIYA",
+      "KAI_KUCHI_NIYA_OLD",
+      "KAI_KUCHI_O",
+      "KAI_KUCHI_O_OLD",
+      "KAI_KUCHI_PSP_A",
+      "KAI_KUCHI_PSP_E",
+      "KAI_KUCHI_PSP_NIYA",
+      "KAI_KUCHI_PSP_NIYARI",
+      "KAI_KUCHI_PSP_O",
+      "KAI_KUCHI_PSP_SURPRISE",
+      "KAI_KUCHI_RESET",
+      "KAI_KUCHI_RESET_OLD",
+      "KAI_KUCHI_SAKEBI",
+      "KAI_KUCHI_SAKEBI_L",
+      "KAI_KUCHI_SANKAKU",
+      "KAI_KUCHI_SHIKAKU",
+      "KAI_KUCHI_SMILE",
+      "KAI_KUCHI_SMILE_L",
+      "KAI_KUCHI_SMILE_OLD",
+      "KAI_KUCHI_SURPRISE",
+      "KAI_KUCHI_SURPRISE_OLD",
+      "KAI_KUCHI_U",
+      "KAI_KUCHI_U_OLD"
+    ],
+    "missingBones": 0,
+    "nonEyeChannelsPreserved": true
+  },
+  {
+    "character": "MEI",
+    "total": 166,
+    "mapped": [
+      {
+        "target": "MEI_FACE_ADMIRATION",
+        "source": "MEI_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_ADMIRATION_CL",
+        "source": "MEI_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_ADMIRATION_OLD",
+        "source": "MEI_FACE_ADMIRATION",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_ADMIRATION_OLD_CL",
+        "source": "MEI_FACE_ADMIRATION_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_CLARIFYING",
+        "source": "MEI_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_CLARIFYING_CL",
+        "source": "MEI_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_CLARIFYING_OLD",
+        "source": "MEI_FACE_CLARIFYING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_CLARIFYING_OLD_CL",
+        "source": "MEI_FACE_CLARIFYING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_CLOSE",
+        "source": "MEI_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_CLOSE_OLD",
+        "source": "MEI_FACE_CLOSE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_COOL",
+        "source": "MEI_FACE_COOL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_COOL_CL",
+        "source": "MEI_FACE_COOL_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_DAZZLING",
+        "source": "MEI_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_DAZZLING_CL",
+        "source": "MEI_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_DAZZLING_OLD",
+        "source": "MEI_FACE_DAZZLING",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_DAZZLING_OLD_CL",
+        "source": "MEI_FACE_DAZZLING_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_EYEBROW_UP_LEFT",
+        "source": "MEI_FACE_EYEBROW_UP_LEFT",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_EYEBROW_UP_LEFT_CL",
+        "source": "MEI_FACE_EYEBROW_UP_LEFT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_EYEBROW_UP_RIGHT",
+        "source": "MEI_FACE_EYEBROW_UP_RIGHT",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_EYEBROW_UP_RIGHT_CL",
+        "source": "MEI_FACE_EYEBROW_UP_RIGHT_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENKI",
+        "source": "MEI_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENKI_CL",
+        "source": "MEI_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENKI_OLD",
+        "source": "MEI_FACE_GENKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENKI_OLD_CL",
+        "source": "MEI_FACE_GENKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENTLE",
+        "source": "MEI_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENTLE_CL",
+        "source": "MEI_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENTLE_OLD",
+        "source": "MEI_FACE_GENTLE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_GENTLE_OLD_CL",
+        "source": "MEI_FACE_GENTLE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KIRI",
+        "source": "MEI_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KIRI_CL",
+        "source": "MEI_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KIRI_OLD",
+        "source": "MEI_FACE_KIRI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KIRI_OLD_CL",
+        "source": "MEI_FACE_KIRI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KOMARIEGAO",
+        "source": "MEI_FACE_KOMARIEGAO",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KOMARIWARAI",
+        "source": "MEI_FACE_KOMARIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KOMARIWARAI_CL",
+        "source": "MEI_FACE_KOMARIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KONWAKU",
+        "source": "MEI_FACE_KONWAKU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KONWAKU_CL",
+        "source": "MEI_FACE_KONWAKU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KUMON",
+        "source": "MEI_FACE_KUMON",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KUMON_CL",
+        "source": "MEI_FACE_KUMON_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KUTSUU",
+        "source": "MEI_FACE_KUTSUU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_KUTSUU_CL",
+        "source": "MEI_FACE_KUTSUU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_LASCIVIOUS",
+        "source": "MEI_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_LASCIVIOUS_CL",
+        "source": "MEI_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_LASCIVIOUS_OLD",
+        "source": "MEI_FACE_LASCIVIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_LASCIVIOUS_OLD_CL",
+        "source": "MEI_FACE_LASCIVIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_LAUGH",
+        "source": "MEI_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_LAUGH_OLD",
+        "source": "MEI_FACE_LAUGH",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAGASI",
+        "source": "MEI_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAGASI_CL",
+        "source": "MEI_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAGASI_OLD",
+        "source": "MEI_FACE_NAGASI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAGASI_OLD_CL",
+        "source": "MEI_FACE_NAGASI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAKI",
+        "source": "MEI_FACE_NAKI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAKI_CL",
+        "source": "MEI_FACE_NAKI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAYAMI",
+        "source": "MEI_FACE_NAYAMI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_NAYAMI_CL",
+        "source": "MEI_FACE_NAYAMI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_OMOU",
+        "source": "MEI_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_OMOU_CL",
+        "source": "MEI_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_OMOU_OLD",
+        "source": "MEI_FACE_OMOU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_OMOU_OLD_CL",
+        "source": "MEI_FACE_OMOU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_RESET",
+        "source": "MEI_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_RESET_OLD",
+        "source": "MEI_FACE_RESET",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SAD",
+        "source": "MEI_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SAD_CL",
+        "source": "MEI_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SAD_OLD",
+        "source": "MEI_FACE_SAD",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SAD_OLD_CL",
+        "source": "MEI_FACE_SAD_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETTLED",
+        "source": "MEI_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETTLED_CL",
+        "source": "MEI_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETTLED_OLD",
+        "source": "MEI_FACE_SETTLED",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETTLED_OLD_CL",
+        "source": "MEI_FACE_SETTLED_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETUNA",
+        "source": "MEI_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETUNA_CL",
+        "source": "MEI_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETUNA_OLD",
+        "source": "MEI_FACE_SETUNA",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SETUNA_OLD_CL",
+        "source": "MEI_FACE_SETUNA_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SMILE",
+        "source": "MEI_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SMILE_CL",
+        "source": "MEI_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SMILE_OLD",
+        "source": "MEI_FACE_SMILE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SMILE_OLD_CL",
+        "source": "MEI_FACE_SMILE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_STRONG",
+        "source": "MEI_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_STRONG_CL",
+        "source": "MEI_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_STRONG_OLD",
+        "source": "MEI_FACE_STRONG",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_STRONG_OLD_CL",
+        "source": "MEI_FACE_STRONG_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SUPSERIOUS",
+        "source": "MEI_FACE_SUPSERIOUS",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SUPSERIOUS_CL",
+        "source": "MEI_FACE_SUPSERIOUS_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SURPRISE",
+        "source": "MEI_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SURPRISE_CL",
+        "source": "MEI_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SURPRISE_OLD",
+        "source": "MEI_FACE_SURPRISE",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_SURPRISE_OLD_CL",
+        "source": "MEI_FACE_SURPRISE_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_TSUYOKIWARAI",
+        "source": "MEI_FACE_TSUYOKIWARAI",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_TSUYOKIWARAI_CL",
+        "source": "MEI_FACE_TSUYOKIWARAI_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_UTURO",
+        "source": "MEI_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_UTURO_CL",
+        "source": "MEI_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_UTURO_OLD",
+        "source": "MEI_FACE_UTURO",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_UTURO_OLD_CL",
+        "source": "MEI_FACE_UTURO_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_WINKG_L",
+        "source": "MEI_FACE_WINKG_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_WINKG_R",
+        "source": "MEI_FACE_WINKG_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_WINK_L",
+        "source": "MEI_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_WINK_L_OLD",
+        "source": "MEI_FACE_WINK_L",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_WINK_R",
+        "source": "MEI_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_WINK_R_OLD",
+        "source": "MEI_FACE_WINK_R",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_YARU",
+        "source": "MEI_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_YARU_CL",
+        "source": "MEI_FACE_YARU_CL",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_YARU_OLD",
+        "source": "MEI_FACE_YARU",
+        "eyeBones": 32
+      },
+      {
+        "target": "MEI_FACE_YARU_OLD_CL",
+        "source": "MEI_FACE_YARU_CL",
+        "eyeBones": 32
+      }
+    ],
+    "unmatched": [
+      "MEI_EYES_DOWN_LEFT_OLD",
+      "MEI_EYES_DOWN_OLD",
+      "MEI_EYES_DOWN_RIGHT_OLD",
+      "MEI_EYES_LEFT_OLD",
+      "MEI_EYES_MOVE_L_R_OLD",
+      "MEI_EYES_MOVE_UL_DR_OLD",
+      "MEI_EYES_MOVE_UR_DL_OLD",
+      "MEI_EYES_MOVE_U_D_OLD",
+      "MEI_EYES_RESET_OLD",
+      "MEI_EYES_RIGHT_OLD",
+      "MEI_EYES_UP_LEFT_OLD",
+      "MEI_EYES_UP_OLD",
+      "MEI_EYES_UP_RIGHT_OLD",
+      "MEI_FACE_CRY",
+      "MEI_FACE_CRY_OLD",
+      "MEI_FACE_NEW_IKARI_OLD",
+      "MEI_FACE_NEW_IKARI_OLD_CL",
+      "MEI_FACE_NIRAMI_OLD",
+      "MEI_FACE_NIRAMI_OLD_CL",
+      "MEI_FACE_WINK_FT_OLD_CL",
+      "MEI_FACE_WINK_OLD",
+      "MEI_KUCHI_A",
+      "MEI_KUCHI_A_OLD",
+      "MEI_KUCHI_CHU",
+      "MEI_KUCHI_CHU_OLD",
+      "MEI_KUCHI_E",
+      "MEI_KUCHI_E_DOWN",
+      "MEI_KUCHI_E_OLD",
+      "MEI_KUCHI_HAMISE",
+      "MEI_KUCHI_HAMISE_DOWN",
+      "MEI_KUCHI_HAMISE_E",
+      "MEI_KUCHI_HE",
+      "MEI_KUCHI_HERAHERA",
+      "MEI_KUCHI_HE_OLD",
+      "MEI_KUCHI_HE_S",
+      "MEI_KUCHI_I",
+      "MEI_KUCHI_I_OLD",
+      "MEI_KUCHI_MOGUMOGU",
+      "MEI_KUCHI_NEKO",
+      "MEI_KUCHI_NEUTRAL",
+      "MEI_KUCHI_NIYA",
+      "MEI_KUCHI_NIYA_OLD",
+      "MEI_KUCHI_O",
+      "MEI_KUCHI_O_OLD",
+      "MEI_KUCHI_PSP_A",
+      "MEI_KUCHI_PSP_E",
+      "MEI_KUCHI_PSP_NIYA",
+      "MEI_KUCHI_PSP_NIYARI",
+      "MEI_KUCHI_PSP_O",
+      "MEI_KUCHI_PSP_SURPRISE",
+      "MEI_KUCHI_RESET",
+      "MEI_KUCHI_RESET_OLD",
+      "MEI_KUCHI_SAKEBI",
+      "MEI_KUCHI_SAKEBI_L",
+      "MEI_KUCHI_SANKAKU",
+      "MEI_KUCHI_SHIKAKU",
+      "MEI_KUCHI_SMILE",
+      "MEI_KUCHI_SMILE_L",
+      "MEI_KUCHI_SMILE_OLD",
+      "MEI_KUCHI_SURPRISE",
+      "MEI_KUCHI_SURPRISE_OLD",
+      "MEI_KUCHI_U",
+      "MEI_KUCHI_U_OLD"
+    ],
+    "missingBones": 0,
+    "nonEyeChannelsPreserved": true
+  }
+]

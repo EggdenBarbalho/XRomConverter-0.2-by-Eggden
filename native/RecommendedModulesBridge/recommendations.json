@@ -1,0 +1,607 @@
+{
+  "schema": 1,
+  "costumeConvention": "zero-based internal COS",
+  "musicIdsAreExisting": true,
+  "entries": [
+    {
+      "pv": 801,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1002,
+      "sourceModules": [
+        249
+      ],
+      "targetModules": [
+        2002
+      ],
+      "names": [
+        "Silent Voice"
+      ]
+    },
+    {
+      "pv": 802,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1003,
+      "sourceModules": [
+        250
+      ],
+      "targetModules": [
+        2003
+      ],
+      "names": [
+        "Anode Electronica"
+      ]
+    },
+    {
+      "pv": 802,
+      "performer": 1,
+      "runtimeCharacter": 3,
+      "cos": 1033,
+      "sourceModules": [
+        293
+      ],
+      "targetModules": [
+        2033
+      ],
+      "names": [
+        "Cathode Electronica"
+      ]
+    },
+    {
+      "pv": 803,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1004,
+      "sourceModules": [
+        251
+      ],
+      "targetModules": [
+        2004
+      ],
+      "names": [
+        "Bandaged Heart"
+      ]
+    },
+    {
+      "pv": 804,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1005,
+      "sourceModules": [
+        252
+      ],
+      "targetModules": [
+        2005
+      ],
+      "names": [
+        "Chopstick"
+      ]
+    },
+    {
+      "pv": 805,
+      "performer": 0,
+      "runtimeCharacter": 1,
+      "cos": 1025,
+      "sourceModules": [
+        273
+      ],
+      "targetModules": [
+        2025
+      ],
+      "names": [
+        "Astray"
+      ]
+    },
+    {
+      "pv": 806,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1006,
+      "sourceModules": [
+        253
+      ],
+      "targetModules": [
+        2006
+      ],
+      "names": [
+        "High Fever"
+      ]
+    },
+    {
+      "pv": 807,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1007,
+      "sourceModules": [
+        254
+      ],
+      "targetModules": [
+        2007
+      ],
+      "names": [
+        "Sea Lily"
+      ]
+    },
+    {
+      "pv": 808,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1008,
+      "sourceModules": [
+        255
+      ],
+      "targetModules": [
+        2008
+      ],
+      "names": [
+        "Judgment"
+      ]
+    },
+    {
+      "pv": 811,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 154,
+      "sourceModules": [
+        256
+      ],
+      "targetModules": [
+        393
+      ],
+      "names": [
+        "Lollipop"
+      ]
+    },
+    {
+      "pv": 812,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1010,
+      "sourceModules": [
+        257
+      ],
+      "targetModules": [
+        2010
+      ],
+      "names": [
+        "Pizzicato"
+      ]
+    },
+    {
+      "pv": 813,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1011,
+      "sourceModules": [
+        258
+      ],
+      "targetModules": [
+        2011
+      ],
+      "names": [
+        "Green Tanuki"
+      ]
+    },
+    {
+      "pv": 813,
+      "performer": 1,
+      "runtimeCharacter": 1,
+      "cos": 1026,
+      "sourceModules": [
+        274
+      ],
+      "targetModules": [
+        2026
+      ],
+      "names": [
+        "Orange Fox"
+      ]
+    },
+    {
+      "pv": 814,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1012,
+      "sourceModules": [
+        259
+      ],
+      "targetModules": [
+        2012
+      ],
+      "names": [
+        "Engage"
+      ]
+    },
+    {
+      "pv": 815,
+      "performer": 0,
+      "runtimeCharacter": 3,
+      "cos": 1034,
+      "sourceModules": [
+        294
+      ],
+      "targetModules": [
+        2034
+      ],
+      "names": [
+        "Izayoi"
+      ]
+    },
+    {
+      "pv": 816,
+      "performer": 0,
+      "runtimeCharacter": 2,
+      "cos": 1030,
+      "sourceModules": [
+        283
+      ],
+      "targetModules": [
+        2030
+      ],
+      "names": [
+        "Holy Lancer"
+      ]
+    },
+    {
+      "pv": 817,
+      "performer": 0,
+      "runtimeCharacter": 6,
+      "cos": 1037,
+      "sourceModules": [
+        301
+      ],
+      "targetModules": [
+        2037
+      ],
+      "names": [
+        "Underhanded Blue"
+      ]
+    },
+    {
+      "pv": 817,
+      "performer": 1,
+      "runtimeCharacter": 0,
+      "cos": 1013,
+      "sourceModules": [
+        260
+      ],
+      "targetModules": [
+        2013
+      ],
+      "names": [
+        "Underhanded Green"
+      ]
+    },
+    {
+      "pv": 817,
+      "performer": 2,
+      "runtimeCharacter": 7,
+      "cos": 1038,
+      "sourceModules": [
+        309
+      ],
+      "targetModules": [
+        2038
+      ],
+      "names": [
+        "Underhanded Red"
+      ]
+    },
+    {
+      "pv": 818,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1014,
+      "sourceModules": [
+        262
+      ],
+      "targetModules": [
+        2014
+      ],
+      "names": [
+        "Pumpkin Dream"
+      ]
+    },
+    {
+      "pv": 819,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1015,
+      "sourceModules": [
+        263
+      ],
+      "targetModules": [
+        2015
+      ],
+      "names": [
+        "Layered Envy"
+      ]
+    },
+    {
+      "pv": 820,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1016,
+      "sourceModules": [
+        264
+      ],
+      "targetModules": [
+        2016
+      ],
+      "names": [
+        "Raspberryism"
+      ]
+    },
+    {
+      "pv": 821,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1017,
+      "sourceModules": [
+        265
+      ],
+      "targetModules": [
+        2017
+      ],
+      "names": [
+        "Ambivalence"
+      ]
+    },
+    {
+      "pv": 822,
+      "performer": 0,
+      "runtimeCharacter": 7,
+      "cos": 1039,
+      "sourceModules": [
+        311
+      ],
+      "targetModules": [
+        2039
+      ],
+      "names": [
+        "Strawberry Witch"
+      ]
+    },
+    {
+      "pv": 822,
+      "performer": 1,
+      "runtimeCharacter": 1,
+      "cos": 1027,
+      "sourceModules": [
+        277
+      ],
+      "targetModules": [
+        2027
+      ],
+      "names": [
+        "PÃƒÂ¢tissier Gretel"
+      ]
+    },
+    {
+      "pv": 822,
+      "performer": 2,
+      "runtimeCharacter": 2,
+      "cos": 1031,
+      "sourceModules": [
+        286
+      ],
+      "targetModules": [
+        2031
+      ],
+      "names": [
+        "PÃƒÂ¢tissier Hansel"
+      ]
+    },
+    {
+      "pv": 823,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1018,
+      "sourceModules": [
+        266
+      ],
+      "targetModules": [
+        2018
+      ],
+      "names": [
+        "Cantatrice"
+      ]
+    },
+    {
+      "pv": 824,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1019,
+      "sourceModules": [
+        267
+      ],
+      "targetModules": [
+        2019
+      ],
+      "names": [
+        "DE:MONSTAR"
+      ]
+    },
+    {
+      "pv": 825,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1020,
+      "sourceModules": [
+        268
+      ],
+      "targetModules": [
+        2020
+      ],
+      "names": [
+        "Twinkle Star"
+      ]
+    },
+    {
+      "pv": 826,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1024,
+      "sourceModules": [
+        272
+      ],
+      "targetModules": [
+        2024
+      ],
+      "names": [
+        "Ultimate Miku"
+      ]
+    },
+    {
+      "pv": 827,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1021,
+      "sourceModules": [
+        269
+      ],
+      "targetModules": [
+        2021
+      ],
+      "names": [
+        "Rockin' Stone"
+      ]
+    },
+    {
+      "pv": 827,
+      "performer": 1,
+      "runtimeCharacter": 1,
+      "cos": 1028,
+      "sourceModules": [
+        279
+      ],
+      "targetModules": [
+        2028
+      ],
+      "names": [
+        "Burning Stone"
+      ]
+    },
+    {
+      "pv": 827,
+      "performer": 2,
+      "runtimeCharacter": 3,
+      "cos": 1035,
+      "sourceModules": [
+        297
+      ],
+      "targetModules": [
+        2035
+      ],
+      "names": [
+        "Dominant Stone"
+      ]
+    },
+    {
+      "pv": 828,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1022,
+      "sourceModules": [
+        270
+      ],
+      "targetModules": [
+        2022
+      ],
+      "names": [
+        "Brilliant Butterfly"
+      ]
+    },
+    {
+      "pv": 828,
+      "performer": 1,
+      "runtimeCharacter": 3,
+      "cos": 1036,
+      "sourceModules": [
+        298
+      ],
+      "targetModules": [
+        2036
+      ],
+      "names": [
+        "Elegant Butterfly"
+      ]
+    },
+    {
+      "pv": 828,
+      "performer": 2,
+      "runtimeCharacter": 7,
+      "cos": 1040,
+      "sourceModules": [
+        314
+      ],
+      "targetModules": [
+        2040
+      ],
+      "names": [
+        "Glamorous Butterfly"
+      ]
+    },
+    {
+      "pv": 829,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1023,
+      "sourceModules": [
+        271
+      ],
+      "targetModules": [
+        2023
+      ],
+      "names": [
+        "Ivy Rabbit"
+      ]
+    },
+    {
+      "pv": 829,
+      "performer": 1,
+      "runtimeCharacter": 1,
+      "cos": 1029,
+      "sourceModules": [
+        281
+      ],
+      "targetModules": [
+        2029
+      ],
+      "names": [
+        "Ivy Cat's Eye"
+      ]
+    },
+    {
+      "pv": 829,
+      "performer": 2,
+      "runtimeCharacter": 2,
+      "cos": 1032,
+      "sourceModules": [
+        290
+      ],
+      "targetModules": [
+        2032
+      ],
+      "names": [
+        "Ivy Tomcat"
+      ]
+    },
+    {
+      "pv": 830,
+      "performer": 0,
+      "runtimeCharacter": 0,
+      "cos": 1024,
+      "sourceModules": [
+        272
+      ],
+      "targetModules": [
+        2024
+      ],
+      "names": [
+        "Ultimate Miku"
+      ]
+    }
+  ]
+}
