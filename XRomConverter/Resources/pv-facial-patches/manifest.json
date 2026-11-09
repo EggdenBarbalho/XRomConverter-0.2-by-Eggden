@@ -1,0 +1,152 @@
+[
+  {
+    "File": "mot_PV029_FACE_MIK.farc",
+    "Sha256": "50f3b87d74590c7a07025871ea3abf29a4408d753b8c21bc88ccc06eed769319",
+    "Bytes": 141360
+  },
+  {
+    "File": "mot_PV030_FACE_MIK.farc",
+    "Sha256": "a01892416696378a12e013fda91593facdac492bc59f1732e24a60c424da1b6f",
+    "Bytes": 721456
+  },
+  {
+    "File": "mot_PV031_FACE_MIK.farc",
+    "Sha256": "ce4b1bc5ee4f6a8ae7ba3ee430a23fecd9280a47c454054aace16bccee0eae4e",
+    "Bytes": 392656
+  },
+  {
+    "File": "mot_PV032_FACE_MIK.farc",
+    "Sha256": "d41091fac3335a128866cbebbc2008ea94f8cf7e6e174b5a1894bc2be0fca95b",
+    "Bytes": 319200
+  },
+  {
+    "File": "mot_PV102_FACE_MIK.farc",
+    "Sha256": "a95c10abda444e06f9fad725e44d1da7b491a82ff23757454e92222f339afdf4",
+    "Bytes": 271536
+  },
+  {
+    "File": "mot_PV103_FACE_MIK.farc",
+    "Sha256": "a8430ef943c06aca2326c41f56bf9aa4738df4ce1e45b6e1a879bfbcc2a62531",
+    "Bytes": 474496
+  },
+  {
+    "File": "mot_PV104_FACE_MIK.farc",
+    "Sha256": "99a0cbaedeb49a7b844f542b91f8ed2509fd2ce2953dadba5138d039d75b9efb",
+    "Bytes": 556176
+  },
+  {
+    "File": "mot_PV201_FACE_MIK.farc",
+    "Sha256": "dba1d442bfe5cdd9e8e17076ea443838449e880bdd441bc042d3c39902086689",
+    "Bytes": 193760
+  },
+  {
+    "File": "mot_PV202_FACE_MIK.farc",
+    "Sha256": "6b234071456b7f0455b57cb6ed6cce6100970860b1c65c433255d24a77d7b3cf",
+    "Bytes": 479136
+  },
+  {
+    "File": "mot_PV204_FACE_MIK.farc",
+    "Sha256": "b3bf47815bfcc4e9a90d9d340b57586abc1b2d3904dcdba90fe0debc6e9efaf6",
+    "Bytes": 288800
+  },
+  {
+    "File": "mot_PV205_FACE_MIK.farc",
+    "Sha256": "c2ff4ac1492889936c5f48efe70a5f9d0d8e30181525ab5cc91700de84ab85f1",
+    "Bytes": 353264
+  },
+  {
+    "File": "mot_PV206_FACE_MIK.farc",
+    "Sha256": "e550215a2432a5bbb82a61d52c36794c9ffbf8150804bd181ab9e4da3f6f6309",
+    "Bytes": 337664
+  },
+  {
+    "File": "mot_PV208_FACE_MIK.farc",
+    "Sha256": "b6aaa360e44aa2a55cba4a48f5723a16b62dd943359957bc67d0d9a8c9628890",
+    "Bytes": 391472
+  },
+  {
+    "File": "mot_PV210_FACE_MIK.farc",
+    "Sha256": "a5f2726e052316b74b7096e321ff0b4232aba02b1d90e270b956aab85432fae6",
+    "Bytes": 453248
+  },
+  {
+    "File": "mot_PV211_FACE_MIK.farc",
+    "Sha256": "0a2c53075145a085af7e7da129de05a444f67746e4096e9adcd1f7cefd6ddd4c",
+    "Bytes": 654912
+  },
+  {
+    "File": "mot_PV212_FACE_MIK.farc",
+    "Sha256": "64fec8f04e8da7f41e3d0e80be013d2252bfe016cb0cc25d3526e37bab21066e",
+    "Bytes": 486928
+  },
+  {
+    "File": "mot_PV214_FACE_MIK.farc",
+    "Sha256": "1cea62bbf15680f285dd9188b7a4c36ed4b30d5005aada0cd6c25c1cc791aa35",
+    "Bytes": 1355680
+  },
+  {
+    "File": "mot_PV218_FACE_MIK.farc",
+    "Sha256": "82964e9114caf5fff05de52a915ed2a70c28b628d9e1e5e0b7ad71404e638849",
+    "Bytes": 794384
+  },
+  {
+    "File": "mot_PV219_FACE_MIK.farc",
+    "Sha256": "31eb352e5175b81e4407b0af57f01a6d7d6b3f014da02e243aa77b84c584b274",
+    "Bytes": 729088
+  },
+  {
+    "File": "mot_PV220_FACE_MIK.farc",
+    "Sha256": "2564a75219f7e178610ce9219c0cb359c6316b40f7503adada5372d7a6e34f9e",
+    "Bytes": 1612496
+  },
+  {
+    "File": "mot_PV222_FACE_MIK.farc",
+    "Sha256": "7741338a558b248b1c62e31a4b94eaaad91ce9143b05249f79de8116da86dc81",
+    "Bytes": 980480
+  },
+  {
+    "File": "mot_PV223_FACE_MIK.farc",
+    "Sha256": "3e88f2ed049a07786ff380fa97648904a25a6f15a2b6cb3baf04818d88ee7f98",
+    "Bytes": 1500928
+  },
+  {
+    "File": "mot_PV224_FACE_MIK.farc",
+    "Sha256": "38160aac89213bc2b10aaa0409c18ffa6ddc7633313984c1566e82da65718dd9",
+    "Bytes": 557840
+  },
+  {
+    "File": "mot_PV225_FACE_MIK.farc",
+    "Sha256": "87506bce5de1607552315e0d48a0f8376db267eda93f21fba62b3fa6dbdfd0a9",
+    "Bytes": 543216
+  },
+  {
+    "File": "mot_PV231_FACE_MIK.farc",
+    "Sha256": "570d601650a699e714573be71ae438a22042222cb723caf6c0bf51bacc5b51b0",
+    "Bytes": 1335152
+  },
+  {
+    "File": "mot_PV232_FACE_MIK.farc",
+    "Sha256": "11c37356e23b3600aca9b35795d0af3c1299a7baf1bd29da369310677d67c9d3",
+    "Bytes": 1479104
+  },
+  {
+    "File": "mot_PV233_FACE_MIK.farc",
+    "Sha256": "3cd3418ba8b723ea501615697451f695b4c363a02e3cc8ae6f80b061b4000c61",
+    "Bytes": 1380080
+  },
+  {
+    "File": "mot_PV234_FACE_MIK.farc",
+    "Sha256": "f4296022f18682450b402a5fc05e82993f15115462f43b69476e923e91c67b7a",
+    "Bytes": 94512
+  },
+  {
+    "File": "mot_PV235_FACE_MIK.farc",
+    "Sha256": "39b0a17764bbdc680212f10291dcb0d96ef866351185543623ab7776b2a70fb0",
+    "Bytes": 465520
+  },
+  {
+    "File": "mot_PV236_FACE_MIK.farc",
+    "Sha256": "3d031a480b9f12e510d017b6e2b0c40c2c8e8c667b135404e11b3865ea190b86",
+    "Bytes": 372736
+  }
+]

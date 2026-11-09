@@ -1,0 +1,2 @@
+cat.length=0
+obj.length=0

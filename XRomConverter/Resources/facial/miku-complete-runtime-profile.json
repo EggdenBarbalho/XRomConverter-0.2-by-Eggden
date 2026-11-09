@@ -1,0 +1,854 @@
+{
+  "schemaVersion": 1,
+  "character": "MIK",
+  "referenceSha256": "F25E67BC8AF13AC6B79A04220D0C8F77BD1DB5EF72E8DC29B07B045287680BFE",
+  "sourceArchiveSha256": "7895774B314506590928D00E2F6FCD5EAF5502881638F7342A035F1791A9E790",
+  "sourceBonesSha256": "660F4EAFEB4D91C1A8AD5D707D1E6BB63E7A44ADFDA310C126F9B3F87A8D8F20",
+  "targetMotionNames": [
+    "MIK_EYES_DOWN_LEFT_OLD",
+    "MIK_EYES_DOWN_OLD",
+    "MIK_EYES_DOWN_RIGHT_OLD",
+    "MIK_EYES_LEFT_OLD",
+    "MIK_EYES_MOVE_L_R_OLD",
+    "MIK_EYES_MOVE_UL_DR_OLD",
+    "MIK_EYES_MOVE_UR_DL_OLD",
+    "MIK_EYES_MOVE_U_D_OLD",
+    "MIK_EYES_RESET_OLD",
+    "MIK_EYES_RIGHT_OLD",
+    "MIK_EYES_UP_LEFT_OLD",
+    "MIK_EYES_UP_OLD",
+    "MIK_EYES_UP_RIGHT_OLD",
+    "MIK_FACE_ADMIRATION",
+    "MIK_FACE_ADMIRATION_CL",
+    "MIK_FACE_ADMIRATION_OLD",
+    "MIK_FACE_ADMIRATION_OLD_CL",
+    "MIK_FACE_CLARIFYING",
+    "MIK_FACE_CLARIFYING_CL",
+    "MIK_FACE_CLARIFYING_OLD",
+    "MIK_FACE_CLARIFYING_OLD_CL",
+    "MIK_FACE_CLOSE",
+    "MIK_FACE_CLOSE_OLD",
+    "MIK_FACE_COOL",
+    "MIK_FACE_COOL_CL",
+    "MIK_FACE_CRY",
+    "MIK_FACE_CRY_OLD",
+    "MIK_FACE_DAZZLING",
+    "MIK_FACE_DAZZLING_CL",
+    "MIK_FACE_DAZZLING_OLD",
+    "MIK_FACE_DAZZLING_OLD_CL",
+    "MIK_FACE_EYEBROW_UP_LEFT",
+    "MIK_FACE_EYEBROW_UP_LEFT_CL",
+    "MIK_FACE_EYEBROW_UP_RIGHT",
+    "MIK_FACE_EYEBROW_UP_RIGHT_CL",
+    "MIK_FACE_GENKI",
+    "MIK_FACE_GENKI_CL",
+    "MIK_FACE_GENKI_OLD",
+    "MIK_FACE_GENKI_OLD_CL",
+    "MIK_FACE_GENTLE",
+    "MIK_FACE_GENTLE_CL",
+    "MIK_FACE_GENTLE_OLD",
+    "MIK_FACE_GENTLE_OLD_CL",
+    "MIK_FACE_KIRI",
+    "MIK_FACE_KIRI_CL",
+    "MIK_FACE_KIRI_OLD",
+    "MIK_FACE_KIRI_OLD_CL",
+    "MIK_FACE_KOMARIEGAO",
+    "MIK_FACE_KOMARIWARAI",
+    "MIK_FACE_KOMARIWARAI_CL",
+    "MIK_FACE_KONWAKU",
+    "MIK_FACE_KONWAKU_CL",
+    "MIK_FACE_KUMON",
+    "MIK_FACE_KUMON_CL",
+    "MIK_FACE_KUTSUU",
+    "MIK_FACE_KUTSUU_CL",
+    "MIK_FACE_LASCIVIOUS",
+    "MIK_FACE_LASCIVIOUS_CL",
+    "MIK_FACE_LASCIVIOUS_OLD",
+    "MIK_FACE_LASCIVIOUS_OLD_CL",
+    "MIK_FACE_LAUGH",
+    "MIK_FACE_LAUGH_OLD",
+    "MIK_FACE_NAGASI",
+    "MIK_FACE_NAGASI_CL",
+    "MIK_FACE_NAGASI_OLD",
+    "MIK_FACE_NAGASI_OLD_CL",
+    "MIK_FACE_NAKI",
+    "MIK_FACE_NAKI_CL",
+    "MIK_FACE_NAYAMI",
+    "MIK_FACE_NAYAMI_CL",
+    "MIK_FACE_NEW_IKARI_OLD",
+    "MIK_FACE_NEW_IKARI_OLD_CL",
+    "MIK_FACE_NIRAMI_OLD",
+    "MIK_FACE_NIRAMI_OLD_CL",
+    "MIK_FACE_OMOU",
+    "MIK_FACE_OMOU_CL",
+    "MIK_FACE_OMOU_OLD",
+    "MIK_FACE_OMOU_OLD_CL",
+    "MIK_FACE_RESET",
+    "MIK_FACE_RESET_OLD",
+    "MIK_FACE_SAD",
+    "MIK_FACE_SAD_CL",
+    "MIK_FACE_SAD_OLD",
+    "MIK_FACE_SAD_OLD_CL",
+    "MIK_FACE_SETTLED",
+    "MIK_FACE_SETTLED_CL",
+    "MIK_FACE_SETTLED_OLD",
+    "MIK_FACE_SETTLED_OLD_CL",
+    "MIK_FACE_SETUNA",
+    "MIK_FACE_SETUNA_CL",
+    "MIK_FACE_SETUNA_OLD",
+    "MIK_FACE_SETUNA_OLD_CL",
+    "MIK_FACE_SMILE",
+    "MIK_FACE_SMILE_CL",
+    "MIK_FACE_SMILE_OLD",
+    "MIK_FACE_SMILE_OLD_CL",
+    "MIK_FACE_STRONG",
+    "MIK_FACE_STRONG_CL",
+    "MIK_FACE_STRONG_OLD",
+    "MIK_FACE_STRONG_OLD_CL",
+    "MIK_FACE_SUPSERIOUS",
+    "MIK_FACE_SUPSERIOUS_CL",
+    "MIK_FACE_SURPRISE",
+    "MIK_FACE_SURPRISE_CL",
+    "MIK_FACE_SURPRISE_OLD",
+    "MIK_FACE_SURPRISE_OLD_CL",
+    "MIK_FACE_TSUYOKIWARAI",
+    "MIK_FACE_TSUYOKIWARAI_CL",
+    "MIK_FACE_UTURO",
+    "MIK_FACE_UTURO_CL",
+    "MIK_FACE_UTURO_OLD",
+    "MIK_FACE_UTURO_OLD_CL",
+    "MIK_FACE_WINKG_L",
+    "MIK_FACE_WINKG_R",
+    "MIK_FACE_WINK_FT_OLD_CL",
+    "MIK_FACE_WINK_L",
+    "MIK_FACE_WINK_L_OLD",
+    "MIK_FACE_WINK_OLD",
+    "MIK_FACE_WINK_R",
+    "MIK_FACE_WINK_R_OLD",
+    "MIK_FACE_YARU",
+    "MIK_FACE_YARU_CL",
+    "MIK_FACE_YARU_OLD",
+    "MIK_FACE_YARU_OLD_CL",
+    "MIK_KUCHI_A",
+    "MIK_KUCHI_A_OLD",
+    "MIK_KUCHI_CHU",
+    "MIK_KUCHI_CHU_OLD",
+    "MIK_KUCHI_E",
+    "MIK_KUCHI_E_DOWN",
+    "MIK_KUCHI_E_OLD",
+    "MIK_KUCHI_HAMISE",
+    "MIK_KUCHI_HAMISE_DOWN",
+    "MIK_KUCHI_HAMISE_E",
+    "MIK_KUCHI_HE",
+    "MIK_KUCHI_HERAHERA",
+    "MIK_KUCHI_HE_OLD",
+    "MIK_KUCHI_HE_S",
+    "MIK_KUCHI_I",
+    "MIK_KUCHI_I_OLD",
+    "MIK_KUCHI_MOGUMOGU",
+    "MIK_KUCHI_NEKO",
+    "MIK_KUCHI_NEUTRAL",
+    "MIK_KUCHI_NIYA",
+    "MIK_KUCHI_NIYA_OLD",
+    "MIK_KUCHI_O",
+    "MIK_KUCHI_O_OLD",
+    "MIK_KUCHI_PSP_A",
+    "MIK_KUCHI_PSP_E",
+    "MIK_KUCHI_PSP_NIYA",
+    "MIK_KUCHI_PSP_NIYARI",
+    "MIK_KUCHI_PSP_O",
+    "MIK_KUCHI_PSP_SURPRISE",
+    "MIK_KUCHI_RESET",
+    "MIK_KUCHI_RESET_OLD",
+    "MIK_KUCHI_SAKEBI",
+    "MIK_KUCHI_SAKEBI_L",
+    "MIK_KUCHI_SANKAKU",
+    "MIK_KUCHI_SHIKAKU",
+    "MIK_KUCHI_SMILE",
+    "MIK_KUCHI_SMILE_L",
+    "MIK_KUCHI_SMILE_OLD",
+    "MIK_KUCHI_SURPRISE",
+    "MIK_KUCHI_SURPRISE_OLD",
+    "MIK_KUCHI_U",
+    "MIK_KUCHI_U_OLD"
+  ],
+  "mappings": [
+    {
+      "target": "MIK_FACE_ADMIRATION",
+      "source": "MIK_FACE_ADMIRATION"
+    },
+    {
+      "target": "MIK_FACE_ADMIRATION_CL",
+      "source": "MIK_FACE_ADMIRATION_CL"
+    },
+    {
+      "target": "MIK_FACE_ADMIRATION_OLD",
+      "source": "MIK_FACE_ADMIRATION"
+    },
+    {
+      "target": "MIK_FACE_ADMIRATION_OLD_CL",
+      "source": "MIK_FACE_ADMIRATION"
+    },
+    {
+      "target": "MIK_FACE_CLARIFYING",
+      "source": "MIK_FACE_CLARIFYING"
+    },
+    {
+      "target": "MIK_FACE_CLARIFYING_CL",
+      "source": "MIK_FACE_CLARIFYING_CL"
+    },
+    {
+      "target": "MIK_FACE_CLARIFYING_OLD",
+      "source": "MIK_FACE_CLARIFYING"
+    },
+    {
+      "target": "MIK_FACE_CLARIFYING_OLD_CL",
+      "source": "MIK_FACE_CLARIFYING"
+    },
+    {
+      "target": "MIK_FACE_CLOSE",
+      "source": "MIK_FACE_CLOSE"
+    },
+    {
+      "target": "MIK_FACE_CLOSE_OLD",
+      "source": "MIK_FACE_CLOSE"
+    },
+    {
+      "target": "MIK_FACE_COOL",
+      "source": "MIK_FACE_COOL"
+    },
+    {
+      "target": "MIK_FACE_COOL_CL",
+      "source": "MIK_FACE_COOL_CL"
+    },
+    {
+      "target": "MIK_FACE_DAZZLING",
+      "source": "MIK_FACE_DAZZLING"
+    },
+    {
+      "target": "MIK_FACE_DAZZLING_CL",
+      "source": "MIK_FACE_DAZZLING_CL"
+    },
+    {
+      "target": "MIK_FACE_DAZZLING_OLD",
+      "source": "MIK_FACE_DAZZLING"
+    },
+    {
+      "target": "MIK_FACE_DAZZLING_OLD_CL",
+      "source": "MIK_FACE_DAZZLING"
+    },
+    {
+      "target": "MIK_FACE_EYEBROW_UP_LEFT",
+      "source": "MIK_FACE_EYEBROW_UP_LEFT"
+    },
+    {
+      "target": "MIK_FACE_EYEBROW_UP_LEFT_CL",
+      "source": "MIK_FACE_EYEBROW_UP_LEFT_CL"
+    },
+    {
+      "target": "MIK_FACE_EYEBROW_UP_RIGHT",
+      "source": "MIK_FACE_EYEBROW_UP_RIGHT"
+    },
+    {
+      "target": "MIK_FACE_EYEBROW_UP_RIGHT_CL",
+      "source": "MIK_FACE_EYEBROW_UP_RIGHT_CL"
+    },
+    {
+      "target": "MIK_FACE_GENKI",
+      "source": "MIK_FACE_GENKI"
+    },
+    {
+      "target": "MIK_FACE_GENKI_CL",
+      "source": "MIK_FACE_GENKI_CL"
+    },
+    {
+      "target": "MIK_FACE_GENKI_OLD",
+      "source": "MIK_FACE_GENKI"
+    },
+    {
+      "target": "MIK_FACE_GENKI_OLD_CL",
+      "source": "MIK_FACE_GENKI"
+    },
+    {
+      "target": "MIK_FACE_GENTLE",
+      "source": "MIK_FACE_GENTLE"
+    },
+    {
+      "target": "MIK_FACE_GENTLE_CL",
+      "source": "MIK_FACE_GENTLE_CL"
+    },
+    {
+      "target": "MIK_FACE_GENTLE_OLD",
+      "source": "MIK_FACE_GENTLE"
+    },
+    {
+      "target": "MIK_FACE_GENTLE_OLD_CL",
+      "source": "MIK_FACE_GENTLE"
+    },
+    {
+      "target": "MIK_FACE_KIRI",
+      "source": "MIK_FACE_KIRI"
+    },
+    {
+      "target": "MIK_FACE_KIRI_CL",
+      "source": "MIK_FACE_KIRI_CL"
+    },
+    {
+      "target": "MIK_FACE_KIRI_OLD",
+      "source": "MIK_FACE_KIRI"
+    },
+    {
+      "target": "MIK_FACE_KIRI_OLD_CL",
+      "source": "MIK_FACE_KIRI"
+    },
+    {
+      "target": "MIK_FACE_KOMARIEGAO",
+      "source": "MIK_FACE_KOMARIEGAO"
+    },
+    {
+      "target": "MIK_FACE_KOMARIWARAI",
+      "source": "MIK_FACE_KOMARIWARAI"
+    },
+    {
+      "target": "MIK_FACE_KOMARIWARAI_CL",
+      "source": "MIK_FACE_KOMARIWARAI_CL"
+    },
+    {
+      "target": "MIK_FACE_KONWAKU",
+      "source": "MIK_FACE_KONWAKU"
+    },
+    {
+      "target": "MIK_FACE_KONWAKU_CL",
+      "source": "MIK_FACE_KONWAKU_CL"
+    },
+    {
+      "target": "MIK_FACE_KUMON",
+      "source": "MIK_FACE_KUMON"
+    },
+    {
+      "target": "MIK_FACE_KUMON_CL",
+      "source": "MIK_FACE_KUMON_CL"
+    },
+    {
+      "target": "MIK_FACE_KUTSUU",
+      "source": "MIK_FACE_KUTSUU"
+    },
+    {
+      "target": "MIK_FACE_KUTSUU_CL",
+      "source": "MIK_FACE_KUTSUU_CL"
+    },
+    {
+      "target": "MIK_FACE_LASCIVIOUS",
+      "source": "MIK_FACE_LASCIVIOUS"
+    },
+    {
+      "target": "MIK_FACE_LASCIVIOUS_CL",
+      "source": "MIK_FACE_LASCIVIOUS_CL"
+    },
+    {
+      "target": "MIK_FACE_LASCIVIOUS_OLD",
+      "source": "MIK_FACE_LASCIVIOUS"
+    },
+    {
+      "target": "MIK_FACE_LASCIVIOUS_OLD_CL",
+      "source": "MIK_FACE_LASCIVIOUS"
+    },
+    {
+      "target": "MIK_FACE_LAUGH",
+      "source": "MIK_FACE_LAUGH"
+    },
+    {
+      "target": "MIK_FACE_LAUGH_OLD",
+      "source": "MIK_FACE_LAUGH"
+    },
+    {
+      "target": "MIK_FACE_NAGASI",
+      "source": "MIK_FACE_NAGASI"
+    },
+    {
+      "target": "MIK_FACE_NAGASI_CL",
+      "source": "MIK_FACE_NAGASI_CL"
+    },
+    {
+      "target": "MIK_FACE_NAGASI_OLD",
+      "source": "MIK_FACE_NAGASI"
+    },
+    {
+      "target": "MIK_FACE_NAGASI_OLD_CL",
+      "source": "MIK_FACE_NAGASI"
+    },
+    {
+      "target": "MIK_FACE_NAKI",
+      "source": "MIK_FACE_NAKI"
+    },
+    {
+      "target": "MIK_FACE_NAKI_CL",
+      "source": "MIK_FACE_NAKI_CL"
+    },
+    {
+      "target": "MIK_FACE_NAYAMI",
+      "source": "MIK_FACE_NAYAMI"
+    },
+    {
+      "target": "MIK_FACE_NAYAMI_CL",
+      "source": "MIK_FACE_NAYAMI_CL"
+    },
+    {
+      "target": "MIK_FACE_OMOU",
+      "source": "MIK_FACE_OMOU"
+    },
+    {
+      "target": "MIK_FACE_OMOU_CL",
+      "source": "MIK_FACE_OMOU_CL"
+    },
+    {
+      "target": "MIK_FACE_OMOU_OLD",
+      "source": "MIK_FACE_OMOU"
+    },
+    {
+      "target": "MIK_FACE_OMOU_OLD_CL",
+      "source": "MIK_FACE_OMOU"
+    },
+    {
+      "target": "MIK_FACE_RESET",
+      "source": "MIK_FACE_RESET"
+    },
+    {
+      "target": "MIK_FACE_RESET_OLD",
+      "source": "MIK_FACE_RESET"
+    },
+    {
+      "target": "MIK_FACE_SAD",
+      "source": "MIK_FACE_SAD"
+    },
+    {
+      "target": "MIK_FACE_SAD_CL",
+      "source": "MIK_FACE_SAD_CL"
+    },
+    {
+      "target": "MIK_FACE_SAD_OLD",
+      "source": "MIK_FACE_SAD"
+    },
+    {
+      "target": "MIK_FACE_SAD_OLD_CL",
+      "source": "MIK_FACE_SAD"
+    },
+    {
+      "target": "MIK_FACE_SETTLED",
+      "source": "MIK_FACE_SETTLED"
+    },
+    {
+      "target": "MIK_FACE_SETTLED_CL",
+      "source": "MIK_FACE_SETTLED_CL"
+    },
+    {
+      "target": "MIK_FACE_SETTLED_OLD",
+      "source": "MIK_FACE_SETTLED"
+    },
+    {
+      "target": "MIK_FACE_SETTLED_OLD_CL",
+      "source": "MIK_FACE_SETTLED"
+    },
+    {
+      "target": "MIK_FACE_SETUNA",
+      "source": "MIK_FACE_SETUNA"
+    },
+    {
+      "target": "MIK_FACE_SETUNA_CL",
+      "source": "MIK_FACE_SETUNA_CL"
+    },
+    {
+      "target": "MIK_FACE_SETUNA_OLD",
+      "source": "MIK_FACE_SETUNA"
+    },
+    {
+      "target": "MIK_FACE_SETUNA_OLD_CL",
+      "source": "MIK_FACE_SETUNA"
+    },
+    {
+      "target": "MIK_FACE_SMILE",
+      "source": "MIK_FACE_SMILE"
+    },
+    {
+      "target": "MIK_FACE_SMILE_CL",
+      "source": "MIK_FACE_SMILE_CL"
+    },
+    {
+      "target": "MIK_FACE_SMILE_OLD",
+      "source": "MIK_FACE_SMILE"
+    },
+    {
+      "target": "MIK_FACE_SMILE_OLD_CL",
+      "source": "MIK_FACE_SMILE"
+    },
+    {
+      "target": "MIK_FACE_STRONG",
+      "source": "MIK_FACE_STRONG"
+    },
+    {
+      "target": "MIK_FACE_STRONG_CL",
+      "source": "MIK_FACE_STRONG_CL"
+    },
+    {
+      "target": "MIK_FACE_STRONG_OLD",
+      "source": "MIK_FACE_STRONG"
+    },
+    {
+      "target": "MIK_FACE_STRONG_OLD_CL",
+      "source": "MIK_FACE_STRONG"
+    },
+    {
+      "target": "MIK_FACE_SUPSERIOUS",
+      "source": "MIK_FACE_SUPSERIOUS"
+    },
+    {
+      "target": "MIK_FACE_SUPSERIOUS_CL",
+      "source": "MIK_FACE_SUPSERIOUS_CL"
+    },
+    {
+      "target": "MIK_FACE_SURPRISE",
+      "source": "MIK_FACE_SURPRISE"
+    },
+    {
+      "target": "MIK_FACE_SURPRISE_CL",
+      "source": "MIK_FACE_SURPRISE_CL"
+    },
+    {
+      "target": "MIK_FACE_SURPRISE_OLD",
+      "source": "MIK_FACE_SURPRISE"
+    },
+    {
+      "target": "MIK_FACE_SURPRISE_OLD_CL",
+      "source": "MIK_FACE_SURPRISE"
+    },
+    {
+      "target": "MIK_FACE_TSUYOKIWARAI",
+      "source": "MIK_FACE_TSUYOKIWARAI"
+    },
+    {
+      "target": "MIK_FACE_TSUYOKIWARAI_CL",
+      "source": "MIK_FACE_TSUYOKIWARAI_CL"
+    },
+    {
+      "target": "MIK_FACE_UTURO",
+      "source": "MIK_FACE_UTURO"
+    },
+    {
+      "target": "MIK_FACE_UTURO_CL",
+      "source": "MIK_FACE_UTURO_CL"
+    },
+    {
+      "target": "MIK_FACE_UTURO_OLD",
+      "source": "MIK_FACE_UTURO"
+    },
+    {
+      "target": "MIK_FACE_UTURO_OLD_CL",
+      "source": "MIK_FACE_UTURO"
+    },
+    {
+      "target": "MIK_FACE_WINKG_L",
+      "source": "MIK_FACE_WINKG_L"
+    },
+    {
+      "target": "MIK_FACE_WINKG_R",
+      "source": "MIK_FACE_WINKG_R"
+    },
+    {
+      "target": "MIK_FACE_WINK_L",
+      "source": "MIK_FACE_WINK_L"
+    },
+    {
+      "target": "MIK_FACE_WINK_L_OLD",
+      "source": "MIK_FACE_WINK_L"
+    },
+    {
+      "target": "MIK_FACE_WINK_R",
+      "source": "MIK_FACE_WINK_R"
+    },
+    {
+      "target": "MIK_FACE_WINK_R_OLD",
+      "source": "MIK_FACE_WINK_R"
+    },
+    {
+      "target": "MIK_FACE_YARU",
+      "source": "MIK_FACE_YARU"
+    },
+    {
+      "target": "MIK_FACE_YARU_CL",
+      "source": "MIK_FACE_YARU_CL"
+    },
+    {
+      "target": "MIK_FACE_YARU_OLD",
+      "source": "MIK_FACE_YARU"
+    },
+    {
+      "target": "MIK_FACE_YARU_OLD_CL",
+      "source": "MIK_FACE_YARU"
+    },
+    {
+      "target": "MIK_KUCHI_A",
+      "source": "MIK_KUCHI_A"
+    },
+    {
+      "target": "MIK_KUCHI_A_OLD",
+      "source": "MIK_KUCHI_A"
+    },
+    {
+      "target": "MIK_KUCHI_CHU",
+      "source": "MIK_KUCHI_CHU"
+    },
+    {
+      "target": "MIK_KUCHI_CHU_OLD",
+      "source": "MIK_KUCHI_CHU"
+    },
+    {
+      "target": "MIK_KUCHI_E",
+      "source": "MIK_KUCHI_E"
+    },
+    {
+      "target": "MIK_KUCHI_E_DOWN",
+      "source": "MIK_KUCHI_E_DOWN"
+    },
+    {
+      "target": "MIK_KUCHI_E_OLD",
+      "source": "MIK_KUCHI_E"
+    },
+    {
+      "target": "MIK_KUCHI_HAMISE",
+      "source": "MIK_KUCHI_HAMISE"
+    },
+    {
+      "target": "MIK_KUCHI_HAMISE_DOWN",
+      "source": "MIK_KUCHI_HAMISE_DOWN"
+    },
+    {
+      "target": "MIK_KUCHI_HAMISE_E",
+      "source": "MIK_KUCHI_HAMISE_E"
+    },
+    {
+      "target": "MIK_KUCHI_HE",
+      "source": "MIK_KUCHI_HE"
+    },
+    {
+      "target": "MIK_KUCHI_HERAHERA",
+      "source": "MIK_KUCHI_HERAHERA"
+    },
+    {
+      "target": "MIK_KUCHI_HE_OLD",
+      "source": "MIK_KUCHI_HE"
+    },
+    {
+      "target": "MIK_KUCHI_HE_S",
+      "source": "MIK_KUCHI_HE_S"
+    },
+    {
+      "target": "MIK_KUCHI_I",
+      "source": "MIK_KUCHI_I"
+    },
+    {
+      "target": "MIK_KUCHI_I_OLD",
+      "source": "MIK_KUCHI_I"
+    },
+    {
+      "target": "MIK_KUCHI_MOGUMOGU",
+      "source": "MIK_KUCHI_MOGUMOGU"
+    },
+    {
+      "target": "MIK_KUCHI_NEKO",
+      "source": "MIK_KUCHI_NEKO"
+    },
+    {
+      "target": "MIK_KUCHI_NEUTRAL",
+      "source": "MIK_KUCHI_NEUTRAL"
+    },
+    {
+      "target": "MIK_KUCHI_NIYA",
+      "source": "MIK_KUCHI_NIYA"
+    },
+    {
+      "target": "MIK_KUCHI_NIYA_OLD",
+      "source": "MIK_KUCHI_NIYA"
+    },
+    {
+      "target": "MIK_KUCHI_O",
+      "source": "MIK_KUCHI_O"
+    },
+    {
+      "target": "MIK_KUCHI_O_OLD",
+      "source": "MIK_KUCHI_O"
+    },
+    {
+      "target": "MIK_KUCHI_PSP_A",
+      "source": "MIK_KUCHI_PSP_A"
+    },
+    {
+      "target": "MIK_KUCHI_PSP_E",
+      "source": "MIK_KUCHI_PSP_E"
+    },
+    {
+      "target": "MIK_KUCHI_PSP_NIYA",
+      "source": "MIK_KUCHI_PSP_NIYA"
+    },
+    {
+      "target": "MIK_KUCHI_PSP_NIYARI",
+      "source": "MIK_KUCHI_PSP_NIYARI"
+    },
+    {
+      "target": "MIK_KUCHI_PSP_O",
+      "source": "MIK_KUCHI_PSP_O"
+    },
+    {
+      "target": "MIK_KUCHI_PSP_SURPRISE",
+      "source": "MIK_KUCHI_PSP_SURPRISE"
+    },
+    {
+      "target": "MIK_KUCHI_RESET",
+      "source": "MIK_KUCHI_RESET"
+    },
+    {
+      "target": "MIK_KUCHI_RESET_OLD",
+      "source": "MIK_KUCHI_RESET"
+    },
+    {
+      "target": "MIK_KUCHI_SAKEBI",
+      "source": "MIK_KUCHI_SAKEBI"
+    },
+    {
+      "target": "MIK_KUCHI_SAKEBI_L",
+      "source": "MIK_KUCHI_SAKEBI_L"
+    },
+    {
+      "target": "MIK_KUCHI_SANKAKU",
+      "source": "MIK_KUCHI_SANKAKU"
+    },
+    {
+      "target": "MIK_KUCHI_SHIKAKU",
+      "source": "MIK_KUCHI_SHIKAKU"
+    },
+    {
+      "target": "MIK_KUCHI_SMILE",
+      "source": "MIK_KUCHI_SMILE"
+    },
+    {
+      "target": "MIK_KUCHI_SMILE_L",
+      "source": "MIK_KUCHI_SMILE_L"
+    },
+    {
+      "target": "MIK_KUCHI_SMILE_OLD",
+      "source": "MIK_KUCHI_SMILE"
+    },
+    {
+      "target": "MIK_KUCHI_SURPRISE",
+      "source": "MIK_KUCHI_SURPRISE"
+    },
+    {
+      "target": "MIK_KUCHI_SURPRISE_OLD",
+      "source": "MIK_KUCHI_SURPRISE"
+    },
+    {
+      "target": "MIK_KUCHI_U",
+      "source": "MIK_KUCHI_U"
+    },
+    {
+      "target": "MIK_KUCHI_U_OLD",
+      "source": "MIK_KUCHI_U"
+    }
+  ],
+  "referenceRetainedMotions": [
+    "MIK_EYES_DOWN_LEFT_OLD",
+    "MIK_EYES_DOWN_OLD",
+    "MIK_EYES_DOWN_RIGHT_OLD",
+    "MIK_EYES_LEFT_OLD",
+    "MIK_EYES_MOVE_L_R_OLD",
+    "MIK_EYES_MOVE_UL_DR_OLD",
+    "MIK_EYES_MOVE_UR_DL_OLD",
+    "MIK_EYES_MOVE_U_D_OLD",
+    "MIK_EYES_RESET_OLD",
+    "MIK_EYES_RIGHT_OLD",
+    "MIK_EYES_UP_LEFT_OLD",
+    "MIK_EYES_UP_OLD",
+    "MIK_EYES_UP_RIGHT_OLD",
+    "MIK_FACE_CRY",
+    "MIK_FACE_CRY_OLD",
+    "MIK_FACE_NEW_IKARI_OLD",
+    "MIK_FACE_NEW_IKARI_OLD_CL",
+    "MIK_FACE_NIRAMI_OLD",
+    "MIK_FACE_NIRAMI_OLD_CL",
+    "MIK_FACE_WINK_FT_OLD_CL",
+    "MIK_FACE_WINK_OLD"
+  ],
+  "adjustments": [
+    {
+      "motion": "MIK_FACE_NAGASI_OLD_CL",
+      "bone": "tl_mayu_l_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 0,
+      "value": -0.0063651
+    },
+    {
+      "motion": "MIK_FACE_NAGASI_OLD_CL",
+      "bone": "tl_mayu_l_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 100,
+      "value": -0.0047131
+    },
+    {
+      "motion": "MIK_FACE_NAGASI_OLD_CL",
+      "bone": "tl_mayu_r_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 0,
+      "value": -0.0063651
+    },
+    {
+      "motion": "MIK_FACE_NAGASI_OLD_CL",
+      "bone": "tl_mayu_r_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 100,
+      "value": -0.0047131
+    },
+    {
+      "motion": "MIK_KUCHI_PSP_NIYARI",
+      "bone": "tl_kuti_d_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 100,
+      "value": -0.002996472
+    },
+    {
+      "motion": "MIK_KUCHI_PSP_NIYARI",
+      "bone": "tl_kuti_l_wj",
+      "kind": "position",
+      "axis": 0,
+      "frame": 100,
+      "value": 0.005
+    },
+    {
+      "motion": "MIK_KUCHI_PSP_NIYARI",
+      "bone": "tl_kuti_l_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 100,
+      "value": 0.002774807
+    },
+    {
+      "motion": "MIK_KUCHI_PSP_NIYARI",
+      "bone": "tl_kuti_r_wj",
+      "kind": "position",
+      "axis": 0,
+      "frame": 100,
+      "value": -0.005
+    },
+    {
+      "motion": "MIK_KUCHI_PSP_NIYARI",
+      "bone": "tl_kuti_r_wj",
+      "kind": "position",
+      "axis": 1,
+      "frame": 100,
+      "value": 0.002774807
+    }
+  ]
+}

@@ -1,17 +1,50 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PlatformTarget>x64</PlatformTarget>
+    <UseSystemDrawing>true</UseSystemDrawing>
   </PropertyGroup>
-
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <PathMap>$(MSBuildProjectDirectory)=/_/src/XRomConverter</PathMap>
+  </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Dependencies\FirstWrite\FirstLib\FirstLib.csproj" />
-    <ProjectReference Include="..\Dependencies\MikuMikuLibrary\MikuMikuLibrary.Native\MikuMikuLibrary.Native.vcxproj" />
-    <ProjectReference Include="..\Dependencies\MikuMikuLibrary\MikuMikuLibrary\MikuMikuLibrary.csproj" />
+    <None Remove="Resources/modules/hair_identity_v5.csv" />
+    <EmbeddedResource Include="Resources/modules/hair_identity_v5.csv" LogicalName="XRomConverter.HairIdentityV5.csv" />
+    <None Remove="Resources/recommended/*" />
+    <EmbeddedResource Include="Resources/recommended/*">
+      <LogicalName>XRomConverter.Recommended.%(Filename)%(Extension)</LogicalName>
+    </EmbeddedResource>
+    <Reference Include="FirstLib"><HintPath>lib/FirstLib.dll</HintPath></Reference>
+    <Reference Include="MikuMikuLibrary"><HintPath>lib/MikuMikuLibrary.dll</HintPath></Reference>
+    <Reference Include="AssimpNet"><HintPath>lib/AssimpNet.dll</HintPath></Reference>
+    <Reference Include="System.Drawing.Common"><HintPath>lib/System.Drawing.Common.dll</HintPath></Reference>
+    <Reference Include="Microsoft.Win32.SystemEvents"><HintPath>lib/Microsoft.Win32.SystemEvents.dll</HintPath></Reference>
+    <None Update="lib/MikuMikuLibrary.Native.dll" CopyToOutputDirectory="PreserveNewest" TargetPath="MikuMikuLibrary.Native.dll" />
+    <None Update="lib/Ijwhost.dll" CopyToOutputDirectory="PreserveNewest" TargetPath="Ijwhost.dll" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Resources/skin_param/**/*.txt" />
+    <EmbeddedResource Include="Resources/skin_param/**/*.txt">
+      <LogicalName>XRomConverter.CorrectedSkinParam.%(Filename)%(Extension)</LogicalName>
+    </EmbeddedResource>
+    <Content Include="Resources/modules/module-database.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Resources/modules/x-original-id-map.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Resources/modules/local-id-registry.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="Resources/facial/miku-complete-runtime-profile.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+<ItemGroup><None Update="Resources/pdx-accessory-reference/**/*" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+<ItemGroup><None Update="Resources/hairstyle-portraits/**/*" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+<ItemGroup><None Remove="Resources/closed-eyes/*.farc" /><EmbeddedResource Include="Resources/closed-eyes/*.farc"><LogicalName>XRomConverter.ClosedEyes.%(Filename)%(Extension)</LogicalName></EmbeddedResource></ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources/smile-reference/*.farc" LogicalName="XRomConverter.Smile.%(Filename)%(Extension)" />
+    <EmbeddedResource Include="Resources/pv-facial-patches/*" LogicalName="XRomConverter.PvFacialPatches.%(Filename)%(Extension)" />
+  </ItemGroup>
 </Project>
+

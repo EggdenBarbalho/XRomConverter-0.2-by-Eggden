@@ -1,0 +1,23 @@
+{
+  "source": "MFMK / mfmk1 / rom/rob, supplied by the user",
+  "scope": "Only mabu/eyelid bindings of _CL and FACE_CLOSE generic expressions",
+  "archives": {
+    "mot_HAK.farc": "a165c901b08c61432b11b54a3146eb249d8f9df55c25e4555734619afa851424",
+    "mot_KAI.farc": "852ad9e537cfa884164923b1e90390827965dcb825ce8e36f541a257cf7a8bdd",
+    "mot_LEN.farc": "8ebfa5f2ada9218d366b700f0ced1b1fcf00b78d1c6004fe389f08c7b48ef94d",
+    "mot_LUK.farc": "ad65375b5977303996df8feb289c9f74e1c0b56d0db80d759f89a023e69bd57f",
+    "mot_MEI.farc": "f7eaaaa7654c047958ba3a3937b0487d7aad80233cd1b643499126cdee9cd0c9",
+    "mot_MIK.farc": "f25e67bc8af13ac6b79a04220d0c8f77bd1db5ef72e8dc29b07b045287680bfe",
+    "mot_NER.farc": "40e5b0f2539c4fbbcc75153b803f8038714baf34acd155c7a4ec08ec878e20dd",
+    "mot_RIN.farc": "76a5f87945987ec618d9a8fae542ec196d95f28900ebbd226cfca25e889bceac",
+    "mot_SAK.farc": "b596059fea1ede1d13baf6fb3c1ba77b011834fd44c16a3d70c1abab1500e306",
+    "mot_TET.farc": "58f7848fd4ac01973d7dbc3037561ef174d045bfe0f32348cb73c42592a22fa8"
+  },
+  "referencePvs": [
+    236,
+    219,
+    83,
+    1
+  ],
+  "gameplayVerified": false
+}

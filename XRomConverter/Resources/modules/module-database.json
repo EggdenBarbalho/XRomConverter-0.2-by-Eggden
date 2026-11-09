@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "modules": [
+    {
+      "canonicalId": "miku_snow_2013",
+      "displayName": "Snow Miku 2013",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 98,
+          "cosId": 44,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 190,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:190"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_p4_dancing_all_night",
+      "displayName": "P4: Dancing All Night Miku",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 324,
+          "cosId": 152,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 380,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:380"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_snow_2016",
+      "displayName": "Snow Miku 2016",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 322,
+          "cosId": 150,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 402,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:402"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_racing_2016",
+      "displayName": "Racing Miku 2016",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 323,
+          "cosId": 151,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {}
+    },
+    {
+      "canonicalId": "miku_cabin_attendant_a",
+      "displayName": "Cabin Attendant Style A",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 325,
+          "cosId": 153,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {}
+    },
+    {
+      "canonicalId": "miku_cabin_attendant_39",
+      "displayName": "Cabin Attendant Style 39",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 326,
+          "cosId": 154,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {}
+    },
+    {
+      "canonicalId": "miku_snow_2013_alt",
+      "displayName": "Snow Miku 2013 Alt.",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 99,
+          "cosId": 49,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 194,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:194"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_snow_2015",
+      "displayName": "Snow Miku 2015",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 248,
+          "cosId": 124,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 364,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:364"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_snow_2010",
+      "displayName": "Snow Miku 2010",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 367,
+          "cosId": 155,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 68,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:68"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_snow_2011",
+      "displayName": "Snow Miku 2011",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 368,
+          "cosId": 156,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 77,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:77"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_snow_2012",
+      "displayName": "Snow Miku 2012",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 369,
+          "cosId": 157,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 167,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:167"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_snow_2014",
+      "displayName": "Snow Miku 2014",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 370,
+          "cosId": 158,
+          "packageId": ""
+        }
+      ],
+      "targetBindings": {
+        "megamix_plus": {
+          "id": 284,
+          "kind": "official",
+          "authority": "Diva Mod Archive",
+          "sourceReference": "module_spreadsheet.csv:284"
+        }
+      }
+    },
+    {
+      "canonicalId": "miku_new_type",
+      "displayName": "Hatsune Miku New Type",
+      "representations": [
+        {
+          "system": "diva_x",
+          "character": "MIK",
+          "moduleId": 476,
+          "cosId": 175,
+          "packageId": "1176"
+        }
+      ],
+      "targetBindings": {}
+    }
+  ]
+}

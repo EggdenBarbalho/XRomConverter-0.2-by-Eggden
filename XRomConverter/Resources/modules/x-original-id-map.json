@@ -1,0 +1,2235 @@
+[
+  {
+    "sourceModule": 0,
+    "name": "Hatsune Miku Original",
+    "chara": "MIKU",
+    "module": 0,
+    "cos": 0
+  },
+  {
+    "sourceModule": 1,
+    "name": "Hatsune Miku Append",
+    "chara": "MIKU",
+    "module": 53,
+    "cos": 40
+  },
+  {
+    "sourceModule": 2,
+    "name": "Deep Sky",
+    "chara": "MIKU",
+    "module": 195,
+    "cos": 98
+  },
+  {
+    "sourceModule": 3,
+    "name": "Violet Butterfly",
+    "chara": "MIKU",
+    "module": 196,
+    "cos": 99
+  },
+  {
+    "sourceModule": 4,
+    "name": "Memoria",
+    "chara": "MIKU",
+    "module": 197,
+    "cos": 100
+  },
+  {
+    "sourceModule": 5,
+    "name": "Lab Girl",
+    "chara": "MIKU",
+    "module": 198,
+    "cos": 101
+  },
+  {
+    "sourceModule": 6,
+    "name": "Pierretta",
+    "chara": "MIKU",
+    "module": 199,
+    "cos": 92
+  },
+  {
+    "sourceModule": 7,
+    "name": "Innocent",
+    "chara": "MIKU",
+    "module": 200,
+    "cos": 102
+  },
+  {
+    "sourceModule": 8,
+    "name": "Dark Angel",
+    "chara": "MIKU",
+    "module": 201,
+    "cos": 103
+  },
+  {
+    "sourceModule": 9,
+    "name": "Summer Memories",
+    "chara": "MIKU",
+    "module": 202,
+    "cos": 104
+  },
+  {
+    "sourceModule": 10,
+    "name": "Emerald",
+    "chara": "MIKU",
+    "module": 203,
+    "cos": 106
+  },
+  {
+    "sourceModule": 11,
+    "name": "Solitude",
+    "chara": "MIKU",
+    "module": 204,
+    "cos": 107
+  },
+  {
+    "sourceModule": 12,
+    "name": "Divine Goddess",
+    "chara": "MIKU",
+    "module": 205,
+    "cos": 108
+  },
+  {
+    "sourceModule": 13,
+    "name": "FOnewearl Style",
+    "chara": "MIKU",
+    "module": 206,
+    "cos": 109
+  },
+  {
+    "sourceModule": 14,
+    "name": "Kitty Cape",
+    "chara": "MIKU",
+    "module": 207,
+    "cos": 110
+  },
+  {
+    "sourceModule": 15,
+    "name": "Agitation",
+    "chara": "MIKU",
+    "module": 208,
+    "cos": 93
+  },
+  {
+    "sourceModule": 16,
+    "name": "Star Vocalist",
+    "chara": "MIKU",
+    "module": 209,
+    "cos": 97
+  },
+  {
+    "sourceModule": 17,
+    "name": "Heartbeat",
+    "chara": "MIKU",
+    "module": 210,
+    "cos": 111
+  },
+  {
+    "sourceModule": 18,
+    "name": "Pansy",
+    "chara": "MIKU",
+    "module": 211,
+    "cos": 96
+  },
+  {
+    "sourceModule": 19,
+    "name": "Racing Miku 2012 Ver.",
+    "chara": "MIKU",
+    "module": 212,
+    "cos": 91
+  },
+  {
+    "sourceModule": 20,
+    "name": "Factory Tyrant",
+    "chara": "MIKU",
+    "module": 213,
+    "cos": 112
+  },
+  {
+    "sourceModule": 21,
+    "name": "Hello, Good Night.",
+    "chara": "MIKU",
+    "module": 214,
+    "cos": 105
+  },
+  {
+    "sourceModule": 22,
+    "name": "Polka Dot Bikini",
+    "chara": "MIKU",
+    "module": 215,
+    "cos": 88
+  },
+  {
+    "sourceModule": 23,
+    "name": "Swimsuit",
+    "chara": "MIKU",
+    "module": 216,
+    "cos": 89
+  },
+  {
+    "sourceModule": 24,
+    "name": "Yukata Style",
+    "chara": "MIKU",
+    "module": 217,
+    "cos": 90
+  },
+  {
+    "sourceModule": 25,
+    "name": "Running Miku",
+    "chara": "MIKU",
+    "module": 218,
+    "cos": 87
+  },
+  {
+    "sourceModule": 26,
+    "name": "Ribbon Girl",
+    "chara": "MIKU",
+    "module": 219,
+    "cos": 86
+  },
+  {
+    "sourceModule": 27,
+    "name": "Kagamine Rin Original",
+    "chara": "RIN",
+    "module": 40,
+    "cos": 0
+  },
+  {
+    "sourceModule": 28,
+    "name": "Kagamine Rin Append",
+    "chara": "RIN",
+    "module": 141,
+    "cos": 10
+  },
+  {
+    "sourceModule": 29,
+    "name": "Melancholy",
+    "chara": "RIN",
+    "module": 220,
+    "cos": 26
+  },
+  {
+    "sourceModule": 30,
+    "name": "Transmitter",
+    "chara": "RIN",
+    "module": 221,
+    "cos": 27
+  },
+  {
+    "sourceModule": 31,
+    "name": "Sakura Moon",
+    "chara": "RIN",
+    "module": 222,
+    "cos": 25
+  },
+  {
+    "sourceModule": 32,
+    "name": "Ame",
+    "chara": "RIN",
+    "module": 223,
+    "cos": 28
+  },
+  {
+    "sourceModule": 33,
+    "name": "Striped Bikini",
+    "chara": "RIN",
+    "module": 224,
+    "cos": 20
+  },
+  {
+    "sourceModule": 34,
+    "name": "School Swimwear",
+    "chara": "RIN",
+    "module": 225,
+    "cos": 21
+  },
+  {
+    "sourceModule": 35,
+    "name": "Yukata Style",
+    "chara": "RIN",
+    "module": 226,
+    "cos": 22
+  },
+  {
+    "sourceModule": 36,
+    "name": "Apprentice Magician",
+    "chara": "RIN",
+    "module": 227,
+    "cos": 24
+  },
+  {
+    "sourceModule": 37,
+    "name": "Stylish Energy R",
+    "chara": "RIN",
+    "module": 228,
+    "cos": 19
+  },
+  {
+    "sourceModule": 38,
+    "name": "Trad School",
+    "chara": "RIN",
+    "module": 229,
+    "cos": 18
+  },
+  {
+    "sourceModule": 39,
+    "name": "Kagamine Len Original",
+    "chara": "LEN",
+    "module": 41,
+    "cos": 0
+  },
+  {
+    "sourceModule": 40,
+    "name": "Kagamine Len Append",
+    "chara": "LEN",
+    "module": 147,
+    "cos": 8
+  },
+  {
+    "sourceModule": 41,
+    "name": "Starmine",
+    "chara": "LEN",
+    "module": 230,
+    "cos": 20
+  },
+  {
+    "sourceModule": 42,
+    "name": "Receiver",
+    "chara": "LEN",
+    "module": 231,
+    "cos": 22
+  },
+  {
+    "sourceModule": 43,
+    "name": "Phoenix Moon",
+    "chara": "LEN",
+    "module": 232,
+    "cos": 23
+  },
+  {
+    "sourceModule": 44,
+    "name": "Crane",
+    "chara": "LEN",
+    "module": 233,
+    "cos": 21
+  },
+  {
+    "sourceModule": 45,
+    "name": "Bad Boy",
+    "chara": "LEN",
+    "module": 234,
+    "cos": 18
+  },
+  {
+    "sourceModule": 46,
+    "name": "Swimshorts",
+    "chara": "LEN",
+    "module": 235,
+    "cos": 16
+  },
+  {
+    "sourceModule": 47,
+    "name": "Yukata Style",
+    "chara": "LEN",
+    "module": 236,
+    "cos": 17
+  },
+  {
+    "sourceModule": 48,
+    "name": "Stylish Energy L",
+    "chara": "LEN",
+    "module": 237,
+    "cos": 15
+  },
+  {
+    "sourceModule": 49,
+    "name": "Student Council Officer",
+    "chara": "LEN",
+    "module": 238,
+    "cos": 14
+  },
+  {
+    "sourceModule": 50,
+    "name": "Border Break Operator",
+    "chara": "MEIKO",
+    "module": 265,
+    "cos": 19
+  },
+  {
+    "sourceModule": 51,
+    "name": "Megurine Luka Original ",
+    "chara": "LUKA",
+    "module": 42,
+    "cos": 0
+  },
+  {
+    "sourceModule": 52,
+    "name": "Light & Casual",
+    "chara": "LUKA",
+    "module": 240,
+    "cos": 25
+  },
+  {
+    "sourceModule": 53,
+    "name": "Eternal White",
+    "chara": "LUKA",
+    "module": 241,
+    "cos": 24
+  },
+  {
+    "sourceModule": 54,
+    "name": "Amour",
+    "chara": "LUKA",
+    "module": 242,
+    "cos": 26
+  },
+  {
+    "sourceModule": 55,
+    "name": "Ruby",
+    "chara": "LUKA",
+    "module": 243,
+    "cos": 27
+  },
+  {
+    "sourceModule": 56,
+    "name": "Resort Bikini",
+    "chara": "LUKA",
+    "module": 244,
+    "cos": 20
+  },
+  {
+    "sourceModule": 57,
+    "name": "Racing Swimsuit",
+    "chara": "LUKA",
+    "module": 245,
+    "cos": 21
+  },
+  {
+    "sourceModule": 58,
+    "name": "Yukata Style",
+    "chara": "LUKA",
+    "module": 246,
+    "cos": 22
+  },
+  {
+    "sourceModule": 59,
+    "name": "Wood Nymph",
+    "chara": "LUKA",
+    "module": 247,
+    "cos": 23
+  },
+  {
+    "sourceModule": 60,
+    "name": "Queen Bee",
+    "chara": "LUKA",
+    "module": 248,
+    "cos": 19
+  },
+  {
+    "sourceModule": 61,
+    "name": "After School Mode",
+    "chara": "LUKA",
+    "module": 249,
+    "cos": 18
+  },
+  {
+    "sourceModule": 62,
+    "name": "KAITO Original",
+    "chara": "KAITO",
+    "module": 45,
+    "cos": 0
+  },
+  {
+    "sourceModule": 63,
+    "name": "Requiem",
+    "chara": "KAITO",
+    "module": 250,
+    "cos": 21
+  },
+  {
+    "sourceModule": 64,
+    "name": "Guilty",
+    "chara": "KAITO",
+    "module": 251,
+    "cos": 22
+  },
+  {
+    "sourceModule": 65,
+    "name": "General",
+    "chara": "KAITO",
+    "module": 252,
+    "cos": 19
+  },
+  {
+    "sourceModule": 66,
+    "name": "Half Tights",
+    "chara": "KAITO",
+    "module": 253,
+    "cos": 16
+  },
+  {
+    "sourceModule": 67,
+    "name": "Yukata Style",
+    "chara": "KAITO",
+    "module": 254,
+    "cos": 17
+  },
+  {
+    "sourceModule": 68,
+    "name": "Genius",
+    "chara": "KAITO",
+    "module": 255,
+    "cos": 15
+  },
+  {
+    "sourceModule": 69,
+    "name": "School UniformÃ¢Ëœâ€¦Parka",
+    "chara": "KAITO",
+    "module": 256,
+    "cos": 14
+  },
+  {
+    "sourceModule": 70,
+    "name": "MEIKO Original",
+    "chara": "MEIKO",
+    "module": 44,
+    "cos": 0
+  },
+  {
+    "sourceModule": 71,
+    "name": "Blue Crystal",
+    "chara": "MEIKO",
+    "module": 258,
+    "cos": 20
+  },
+  {
+    "sourceModule": 72,
+    "name": "Noel Rouge",
+    "chara": "MEIKO",
+    "module": 259,
+    "cos": 21
+  },
+  {
+    "sourceModule": 73,
+    "name": "Long Pareo",
+    "chara": "MEIKO",
+    "module": 260,
+    "cos": 16
+  },
+  {
+    "sourceModule": 74,
+    "name": "Water Polo",
+    "chara": "MEIKO",
+    "module": 261,
+    "cos": 17
+  },
+  {
+    "sourceModule": 75,
+    "name": "Yukata Style",
+    "chara": "MEIKO",
+    "module": 262,
+    "cos": 18
+  },
+  {
+    "sourceModule": 76,
+    "name": "Whistle",
+    "chara": "MEIKO",
+    "module": 263,
+    "cos": 15
+  },
+  {
+    "sourceModule": 77,
+    "name": "Graduate",
+    "chara": "MEIKO",
+    "module": 264,
+    "cos": 14
+  },
+  {
+    "sourceModule": 82,
+    "name": "Ichi-no-Sakura Blossom",
+    "chara": "MIKU",
+    "module": 270,
+    "cos": 114
+  },
+  {
+    "sourceModule": 83,
+    "name": "Ni-no-Sakura Butterfly",
+    "chara": "RIN",
+    "module": 273,
+    "cos": 30
+  },
+  {
+    "sourceModule": 84,
+    "name": "Ni-no-Sakura Fan Dance",
+    "chara": "LEN",
+    "module": 276,
+    "cos": 25
+  },
+  {
+    "sourceModule": 85,
+    "name": "San-no-Sakura Maple",
+    "chara": "LUKA",
+    "module": 277,
+    "cos": 28
+  },
+  {
+    "sourceModule": 86,
+    "name": "Rei-no-Sakura Camellia",
+    "chara": "MEIKO",
+    "module": 280,
+    "cos": 22
+  },
+  {
+    "sourceModule": 87,
+    "name": "Rei-no-Sakura Azure Snow",
+    "chara": "KAITO",
+    "module": 279,
+    "cos": 23
+  },
+  {
+    "sourceModule": 88,
+    "name": "Linkage",
+    "chara": "MIKU",
+    "module": 281,
+    "cos": 95
+  },
+  {
+    "sourceModule": 89,
+    "name": "Scissors",
+    "chara": "RIN",
+    "module": 272,
+    "cos": 29
+  },
+  {
+    "sourceModule": 90,
+    "name": "Trickster",
+    "chara": "LEN",
+    "module": 275,
+    "cos": 24
+  },
+  {
+    "sourceModule": 91,
+    "name": "Rin-chan's #1 Fan",
+    "chara": "MIKU",
+    "module": 271,
+    "cos": 115
+  },
+  {
+    "sourceModule": 93,
+    "name": "Rin-chan's #2 Fan",
+    "chara": "LUKA",
+    "module": 278,
+    "cos": 29
+  },
+  {
+    "sourceModule": 94,
+    "name": "Honey Whip",
+    "chara": "MIKU",
+    "module": 269,
+    "cos": 113
+  },
+  {
+    "sourceModule": 100,
+    "name": "Future Style",
+    "chara": "RIN",
+    "module": 274,
+    "cos": 31
+  },
+  {
+    "sourceModule": 101,
+    "name": "Kitty Cat",
+    "chara": "MIKU",
+    "module": 21,
+    "cos": 11
+  },
+  {
+    "sourceModule": 102,
+    "name": "Magician",
+    "chara": "MIKU",
+    "module": 34,
+    "cos": 24
+  },
+  {
+    "sourceModule": 103,
+    "name": "Little Red",
+    "chara": "MIKU",
+    "module": 79,
+    "cos": 45
+  },
+  {
+    "sourceModule": 104,
+    "name": "Out and About",
+    "chara": "MIKU",
+    "module": 78,
+    "cos": 54
+  },
+  {
+    "sourceModule": 105,
+    "name": "Hatsune Miku Butterfly",
+    "chara": "MIKU",
+    "module": 58,
+    "cos": 58
+  },
+  {
+    "sourceModule": 106,
+    "name": "Heart Hunter",
+    "chara": "MIKU",
+    "module": 23,
+    "cos": 13
+  },
+  {
+    "sourceModule": 107,
+    "name": "Conflicted",
+    "chara": "MIKU",
+    "module": 135,
+    "cos": 78
+  },
+  {
+    "sourceModule": 108,
+    "name": "White Dress",
+    "chara": "MIKU",
+    "module": 35,
+    "cos": 25
+  },
+  {
+    "sourceModule": 109,
+    "name": "Vintage Dress",
+    "chara": "MIKU",
+    "module": 69,
+    "cos": 47
+  },
+  {
+    "sourceModule": 110,
+    "name": "Colorful Gumdrop",
+    "chara": "MIKU",
+    "module": 57,
+    "cos": 52
+  },
+  {
+    "sourceModule": 111,
+    "name": "School",
+    "chara": "MIKU",
+    "module": 29,
+    "cos": 19
+  },
+  {
+    "sourceModule": 112,
+    "name": "Orbit",
+    "chara": "MIKU",
+    "module": 131,
+    "cos": 74
+  },
+  {
+    "sourceModule": 113,
+    "name": "Gothic",
+    "chara": "MIKU",
+    "module": 18,
+    "cos": 8
+  },
+  {
+    "sourceModule": 114,
+    "name": "Natural",
+    "chara": "MIKU",
+    "module": 55,
+    "cos": 50
+  },
+  {
+    "sourceModule": 115,
+    "name": "Demons and the Dead",
+    "chara": "MIKU",
+    "module": 130,
+    "cos": 73
+  },
+  {
+    "sourceModule": 116,
+    "name": "Ã¢Ë†Å¾",
+    "chara": "MIKU",
+    "module": 89,
+    "cos": 56
+  },
+  {
+    "sourceModule": 117,
+    "name": "Noble",
+    "chara": "MIKU",
+    "module": 82,
+    "cos": 43
+  },
+  {
+    "sourceModule": 118,
+    "name": "Hatsune Miku V3",
+    "chara": "MIKU",
+    "module": 299,
+    "cos": 124
+  },
+  {
+    "sourceModule": 119,
+    "name": "Supreme",
+    "chara": "MIKU",
+    "module": 316,
+    "cos": 129
+  },
+  {
+    "sourceModule": 120,
+    "name": "Meteorite",
+    "chara": "MIKU",
+    "module": 313,
+    "cos": 130
+  },
+  {
+    "sourceModule": 121,
+    "name": "Dimensional",
+    "chara": "MIKU",
+    "module": 318,
+    "cos": 131
+  },
+  {
+    "sourceModule": 122,
+    "name": "Chat Noir",
+    "chara": "MIKU",
+    "module": 314,
+    "cos": 132
+  },
+  {
+    "sourceModule": 123,
+    "name": "Hana-Kotoba",
+    "chara": "MIKU",
+    "module": 303,
+    "cos": 133
+  },
+  {
+    "sourceModule": 124,
+    "name": "Kasha",
+    "chara": "MIKU",
+    "module": 304,
+    "cos": 134
+  },
+  {
+    "sourceModule": 125,
+    "name": "Regret",
+    "chara": "MIKU",
+    "module": 305,
+    "cos": 135
+  },
+  {
+    "sourceModule": 127,
+    "name": "Siren",
+    "chara": "MIKU",
+    "module": 310,
+    "cos": 137
+  },
+  {
+    "sourceModule": 128,
+    "name": "Moonlight Butterfly",
+    "chara": "MIKU",
+    "module": 309,
+    "cos": 138
+  },
+  {
+    "sourceModule": 129,
+    "name": "Avant-garde",
+    "chara": "MIKU",
+    "module": 300,
+    "cos": 139
+  },
+  {
+    "sourceModule": 130,
+    "name": "Liar",
+    "chara": "MIKU",
+    "module": 308,
+    "cos": 140
+  },
+  {
+    "sourceModule": 131,
+    "name": "Urban Pop",
+    "chara": "MIKU",
+    "module": 319,
+    "cos": 141
+  },
+  {
+    "sourceModule": 132,
+    "name": "Rosa Bianca",
+    "chara": "MIKU",
+    "module": 311,
+    "cos": 142
+  },
+  {
+    "sourceModule": 133,
+    "name": "Breathe With You",
+    "chara": "MIKU",
+    "module": 302,
+    "cos": 143
+  },
+  {
+    "sourceModule": 134,
+    "name": "Rainbow Lines",
+    "chara": "MIKU",
+    "module": 301,
+    "cos": 144
+  },
+  {
+    "sourceModule": 135,
+    "name": "Orange Blossom",
+    "chara": "MIKU",
+    "module": 317,
+    "cos": 145
+  },
+  {
+    "sourceModule": 136,
+    "name": "Magical Mirai",
+    "chara": "MIKU",
+    "module": 290,
+    "cos": 117
+  },
+  {
+    "sourceModule": 138,
+    "name": "Marionette",
+    "chara": "MIKU",
+    "module": 306,
+    "cos": 136
+  },
+  {
+    "sourceModule": 139,
+    "name": "Puffy Pastels",
+    "chara": "MIKU",
+    "module": 320,
+    "cos": 146
+  },
+  {
+    "sourceModule": 140,
+    "name": "Chat Noir Alt",
+    "chara": "MIKU",
+    "module": 315,
+    "cos": 149
+  },
+  {
+    "sourceModule": 141,
+    "name": "Reactor",
+    "chara": "RIN",
+    "module": 72,
+    "cos": 4
+  },
+  {
+    "sourceModule": 142,
+    "name": "Raspberry",
+    "chara": "RIN",
+    "module": 146,
+    "cos": 15
+  },
+  {
+    "sourceModule": 143,
+    "name": "Raspberry Fox",
+    "chara": "RIN",
+    "module": 171,
+    "cos": 16
+  },
+  {
+    "sourceModule": 144,
+    "name": "Cheerful Candy",
+    "chara": "RIN",
+    "module": 59,
+    "cos": 6
+  },
+  {
+    "sourceModule": 145,
+    "name": "Heat Haze",
+    "chara": "RIN",
+    "module": 145,
+    "cos": 14
+  },
+  {
+    "sourceModule": 146,
+    "name": "Dreaming Panda",
+    "chara": "RIN",
+    "module": 321,
+    "cos": 34
+  },
+  {
+    "sourceModule": 147,
+    "name": "Sunflower",
+    "chara": "RIN",
+    "module": 323,
+    "cos": 35
+  },
+  {
+    "sourceModule": 148,
+    "name": "Faker",
+    "chara": "RIN",
+    "module": 322,
+    "cos": 36
+  },
+  {
+    "sourceModule": 149,
+    "name": "Soleil",
+    "chara": "RIN",
+    "module": 324,
+    "cos": 37
+  },
+  {
+    "sourceModule": 150,
+    "name": "Fairy Dress",
+    "chara": "RIN",
+    "module": 325,
+    "cos": 38
+  },
+  {
+    "sourceModule": 151,
+    "name": "Punkish",
+    "chara": "LEN",
+    "module": 73,
+    "cos": 3
+  },
+  {
+    "sourceModule": 152,
+    "name": "Indigo",
+    "chara": "LEN",
+    "module": 149,
+    "cos": 10
+  },
+  {
+    "sourceModule": 153,
+    "name": "Indigo Fox",
+    "chara": "LEN",
+    "module": 172,
+    "cos": 13
+  },
+  {
+    "sourceModule": 154,
+    "name": "School Jersey",
+    "chara": "LEN",
+    "module": 60,
+    "cos": 4
+  },
+  {
+    "sourceModule": 155,
+    "name": "Strangely Dark",
+    "chara": "LEN",
+    "module": 150,
+    "cos": 11
+  },
+  {
+    "sourceModule": 156,
+    "name": "Polar Bear in Love",
+    "chara": "LEN",
+    "module": 326,
+    "cos": 29
+  },
+  {
+    "sourceModule": 157,
+    "name": "Eraser",
+    "chara": "LEN",
+    "module": 329,
+    "cos": 30
+  },
+  {
+    "sourceModule": 158,
+    "name": "Thorned Rose",
+    "chara": "LEN",
+    "module": 327,
+    "cos": 31
+  },
+  {
+    "sourceModule": 159,
+    "name": "Ciel",
+    "chara": "LEN",
+    "module": 328,
+    "cos": 32
+  },
+  {
+    "sourceModule": 160,
+    "name": "White Edge",
+    "chara": "LEN",
+    "module": 330,
+    "cos": 33
+  },
+  {
+    "sourceModule": 161,
+    "name": "Megurine Luka Blossom",
+    "chara": "LUKA",
+    "module": 61,
+    "cos": 5
+  },
+  {
+    "sourceModule": 162,
+    "name": "FrÃƒÂ¤ulein",
+    "chara": "LUKA",
+    "module": 98,
+    "cos": 4
+  },
+  {
+    "sourceModule": 163,
+    "name": "Witch Girl Style",
+    "chara": "LUKA",
+    "module": 119,
+    "cos": 10
+  },
+  {
+    "sourceModule": 164,
+    "name": "Cybernation",
+    "chara": "LUKA",
+    "module": 155,
+    "cos": 11
+  },
+  {
+    "sourceModule": 165,
+    "name": "Hard Rock",
+    "chara": "LUKA",
+    "module": 74,
+    "cos": 6
+  },
+  {
+    "sourceModule": 166,
+    "name": "VF Suit",
+    "chara": "LUKA",
+    "module": 99,
+    "cos": 3
+  },
+  {
+    "sourceModule": 167,
+    "name": "Recruiter",
+    "chara": "LUKA",
+    "module": 334,
+    "cos": 33
+  },
+  {
+    "sourceModule": 168,
+    "name": "Successor",
+    "chara": "LUKA",
+    "module": 331,
+    "cos": 34
+  },
+  {
+    "sourceModule": 169,
+    "name": "Temptation",
+    "chara": "LUKA",
+    "module": 332,
+    "cos": 35
+  },
+  {
+    "sourceModule": 170,
+    "name": "Floral",
+    "chara": "LUKA",
+    "module": 335,
+    "cos": 36
+  },
+  {
+    "sourceModule": 171,
+    "name": "Cyber Cat",
+    "chara": "KAITO",
+    "module": 102,
+    "cos": 4
+  },
+  {
+    "sourceModule": 172,
+    "name": "Shigure",
+    "chara": "KAITO",
+    "module": 158,
+    "cos": 9
+  },
+  {
+    "sourceModule": 173,
+    "name": "Violet",
+    "chara": "KAITO",
+    "module": 159,
+    "cos": 10
+  },
+  {
+    "sourceModule": 174,
+    "name": "White Blazer",
+    "chara": "KAITO",
+    "module": 120,
+    "cos": 8
+  },
+  {
+    "sourceModule": 175,
+    "name": "KAITO V3",
+    "chara": "KAITO",
+    "module": 267,
+    "cos": 18
+  },
+  {
+    "sourceModule": 176,
+    "name": "Originator",
+    "chara": "KAITO",
+    "module": 338,
+    "cos": 30
+  },
+  {
+    "sourceModule": 177,
+    "name": "Rosa Blue",
+    "chara": "KAITO",
+    "module": 336,
+    "cos": 31
+  },
+  {
+    "sourceModule": 179,
+    "name": "Holiday",
+    "chara": "KAITO",
+    "module": 339,
+    "cos": 28
+  },
+  {
+    "sourceModule": 180,
+    "name": "Fluffy Coat",
+    "chara": "MEIKO",
+    "module": 105,
+    "cos": 2
+  },
+  {
+    "sourceModule": 181,
+    "name": "Momiji",
+    "chara": "MEIKO",
+    "module": 624,
+    "cos": 35
+  },
+  {
+    "sourceModule": 182,
+    "name": "Scarlet",
+    "chara": "MEIKO",
+    "module": 76,
+    "cos": 3
+  },
+  {
+    "sourceModule": 183,
+    "name": "Lorelei",
+    "chara": "MEIKO",
+    "module": 165,
+    "cos": 13
+  },
+  {
+    "sourceModule": 184,
+    "name": "Taisho Nostalgia",
+    "chara": "MEIKO",
+    "module": 116,
+    "cos": 9
+  },
+  {
+    "sourceModule": 185,
+    "name": "Blazing",
+    "chara": "MEIKO",
+    "module": 340,
+    "cos": 26
+  },
+  {
+    "sourceModule": 186,
+    "name": "Marine Ribbons",
+    "chara": "MEIKO",
+    "module": 341,
+    "cos": 27
+  },
+  {
+    "sourceModule": 189,
+    "name": "Bunny Ears Hoodie",
+    "chara": "MIKU",
+    "module": 343,
+    "cos": 164
+  },
+  {
+    "sourceModule": 190,
+    "name": "Alparka R",
+    "chara": "RIN",
+    "module": 344,
+    "cos": 44
+  },
+  {
+    "sourceModule": 191,
+    "name": "Alparka L",
+    "chara": "LEN",
+    "module": 345,
+    "cos": 37
+  },
+  {
+    "sourceModule": 192,
+    "name": "Kitty Ears Hoodie",
+    "chara": "LUKA",
+    "module": 346,
+    "cos": 39
+  },
+  {
+    "sourceModule": 193,
+    "name": "Fishy Overalls",
+    "chara": "KAITO",
+    "module": 347,
+    "cos": 35
+  },
+  {
+    "sourceModule": 194,
+    "name": "Wooly Wear",
+    "chara": "MEIKO",
+    "module": 348,
+    "cos": 29
+  },
+  {
+    "sourceModule": 198,
+    "name": "Hatsune Miku Swimwear",
+    "chara": "MIKU",
+    "module": 47,
+    "cos": 30
+  },
+  {
+    "sourceModule": 199,
+    "name": "Kagamine Rin Swimwear",
+    "chara": "RIN",
+    "module": 48,
+    "cos": 1
+  },
+  {
+    "sourceModule": 200,
+    "name": "Kagamine Len Swimwear",
+    "chara": "LEN",
+    "module": 49,
+    "cos": 1
+  },
+  {
+    "sourceModule": 201,
+    "name": "Megurine Luka Swimwear P",
+    "chara": "LUKA",
+    "module": 100,
+    "cos": 7
+  },
+  {
+    "sourceModule": 202,
+    "name": "KAITO Swimwear V",
+    "chara": "KAITO",
+    "module": 103,
+    "cos": 5
+  },
+  {
+    "sourceModule": 203,
+    "name": "KAITO Swimwear V Alt",
+    "chara": "KAITO",
+    "module": 104,
+    "cos": 6
+  },
+  {
+    "sourceModule": 204,
+    "name": "MEIKO Swimwear",
+    "chara": "MEIKO",
+    "module": 51,
+    "cos": 1
+  },
+  {
+    "sourceModule": 205,
+    "name": "Shiny",
+    "chara": "MIKU",
+    "module": 136,
+    "cos": 79
+  },
+  {
+    "sourceModule": 206,
+    "name": "Type 2020",
+    "chara": "MIKU",
+    "module": 137,
+    "cos": 80
+  },
+  {
+    "sourceModule": 207,
+    "name": "Powder",
+    "chara": "MIKU",
+    "module": 83,
+    "cos": 57
+  },
+  {
+    "sourceModule": 208,
+    "name": "Hatsune Miku Cute",
+    "chara": "MIKU",
+    "module": 86,
+    "cos": 59
+  },
+  {
+    "sourceModule": 209,
+    "name": "Yellow",
+    "chara": "MIKU",
+    "module": 80,
+    "cos": 53
+  },
+  {
+    "sourceModule": 210,
+    "name": "Hatsune Miku Christmas",
+    "chara": "MIKU",
+    "module": 62,
+    "cos": 63
+  },
+  {
+    "sourceModule": 211,
+    "name": "Tyrol",
+    "chara": "MIKU",
+    "module": 134,
+    "cos": 77
+  },
+  {
+    "sourceModule": 212,
+    "name": "Angel",
+    "chara": "MIKU",
+    "module": 87,
+    "cos": 49
+  },
+  {
+    "sourceModule": 213,
+    "name": "Rolling Girl",
+    "chara": "MIKU",
+    "module": 129,
+    "cos": 72
+  },
+  {
+    "sourceModule": 214,
+    "name": "Chinese Debut",
+    "chara": "MIKU",
+    "module": 33,
+    "cos": 23
+  },
+  {
+    "sourceModule": 215,
+    "name": "Ha2ne Miku",
+    "chara": "MIKU",
+    "module": 39,
+    "cos": 31
+  },
+  {
+    "sourceModule": 216,
+    "name": "Aile d'Ange",
+    "chara": "MIKU",
+    "module": 84,
+    "cos": 41
+  },
+  {
+    "sourceModule": 217,
+    "name": "Hatsune Miku Swimwear Tan",
+    "chara": "MIKU",
+    "module": 349,
+    "cos": 165
+  },
+  {
+    "sourceModule": 218,
+    "name": "Americana",
+    "chara": "MIKU",
+    "module": 168,
+    "cos": 66
+  },
+  {
+    "sourceModule": 219,
+    "name": "P-Style CG",
+    "chara": "MIKU",
+    "module": 15,
+    "cos": 39
+  },
+  {
+    "sourceModule": 220,
+    "name": "Kagamine Rin Cute",
+    "chara": "RIN",
+    "module": 93,
+    "cos": 3
+  },
+  {
+    "sourceModule": 221,
+    "name": "Kagamine Rin Christmas",
+    "chara": "RIN",
+    "module": 63,
+    "cos": 8
+  },
+  {
+    "sourceModule": 222,
+    "name": "Black Star",
+    "chara": "RIN",
+    "module": 144,
+    "cos": 13
+  },
+  {
+    "sourceModule": 223,
+    "name": "Kagamine Rin Swimwear Tan",
+    "chara": "RIN",
+    "module": 350,
+    "cos": 45
+  },
+  {
+    "sourceModule": 224,
+    "name": "Kagamine Len Christmas",
+    "chara": "LEN",
+    "module": 64,
+    "cos": 6
+  },
+  {
+    "sourceModule": 225,
+    "name": "Blue Moon",
+    "chara": "LEN",
+    "module": 148,
+    "cos": 9
+  },
+  {
+    "sourceModule": 226,
+    "name": "Kagamine Len Swimwear Tan",
+    "chara": "LEN",
+    "module": 351,
+    "cos": 38
+  },
+  {
+    "sourceModule": 227,
+    "name": "Megurine Luka Christmas",
+    "chara": "LUKA",
+    "module": 65,
+    "cos": 8
+  },
+  {
+    "sourceModule": 228,
+    "name": "Fairy Macaron",
+    "chara": "LUKA",
+    "module": 121,
+    "cos": 9
+  },
+  {
+    "sourceModule": 229,
+    "name": "Nagisa Replica",
+    "chara": "LUKA",
+    "module": 156,
+    "cos": 14
+  },
+  {
+    "sourceModule": 231,
+    "name": "Megurine Luka Swimwear Tan",
+    "chara": "LUKA",
+    "module": 352,
+    "cos": 40
+  },
+  {
+    "sourceModule": 232,
+    "name": "Megurine Luka Conflict",
+    "chara": "LUKA",
+    "module": 170,
+    "cos": 16
+  },
+  {
+    "sourceModule": 233,
+    "name": "KAITO Christmas",
+    "chara": "KAITO",
+    "module": 67,
+    "cos": 7
+  },
+  {
+    "sourceModule": 234,
+    "name": "Classic",
+    "chara": "KAITO",
+    "module": 75,
+    "cos": 3
+  },
+  {
+    "sourceModule": 235,
+    "name": "Campus",
+    "chara": "KAITO",
+    "module": 101,
+    "cos": 2
+  },
+  {
+    "sourceModule": 236,
+    "name": "KAITO Swimwear V Tan",
+    "chara": "KAITO",
+    "module": 353,
+    "cos": 36
+  },
+  {
+    "sourceModule": 237,
+    "name": "KAITO Swimwear V Alt Tan",
+    "chara": "KAITO",
+    "module": 354,
+    "cos": 37
+  },
+  {
+    "sourceModule": 238,
+    "name": "MEIKO Christmas",
+    "chara": "MEIKO",
+    "module": 66,
+    "cos": 7
+  },
+  {
+    "sourceModule": 239,
+    "name": "Sweet Pudding",
+    "chara": "MEIKO",
+    "module": 122,
+    "cos": 8
+  },
+  {
+    "sourceModule": 240,
+    "name": "Lin Xiao-Mei Costume",
+    "chara": "MEIKO",
+    "module": 162,
+    "cos": 10
+  },
+  {
+    "sourceModule": 241,
+    "name": "MEIKO Swimwear Tan",
+    "chara": "MEIKO",
+    "module": 355,
+    "cos": 30
+  },
+  {
+    "sourceModule": 249,
+    "name": "Silent Voice",
+    "chara": "MIKU",
+    "module": 9800,
+    "cos": 9000
+  },
+  {
+    "sourceModule": 250,
+    "name": "Anode Electronica",
+    "chara": "MIKU",
+    "module": 9801,
+    "cos": 9001
+  },
+  {
+    "sourceModule": 251,
+    "name": "Bandaged Heart",
+    "chara": "MIKU",
+    "module": 9802,
+    "cos": 9002
+  },
+  {
+    "sourceModule": 252,
+    "name": "Chopstick",
+    "chara": "MIKU",
+    "module": 9803,
+    "cos": 9003
+  },
+  {
+    "sourceModule": 253,
+    "name": "High Fever",
+    "chara": "MIKU",
+    "module": 9804,
+    "cos": 9004
+  },
+  {
+    "sourceModule": 254,
+    "name": "Sea Lily",
+    "chara": "MIKU",
+    "module": 9805,
+    "cos": 9005
+  },
+  {
+    "sourceModule": 255,
+    "name": "Judgment",
+    "chara": "MIKU",
+    "module": 9806,
+    "cos": 9006
+  },
+  {
+    "sourceModule": 256,
+    "name": "Lollipop",
+    "chara": "MIKU",
+    "module": 393,
+    "cos": 154
+  },
+  {
+    "sourceModule": 257,
+    "name": "Pizzicato",
+    "chara": "MIKU",
+    "module": 9807,
+    "cos": 9007
+  },
+  {
+    "sourceModule": 258,
+    "name": "Green Tanuki",
+    "chara": "MIKU",
+    "module": 9808,
+    "cos": 9008
+  },
+  {
+    "sourceModule": 259,
+    "name": "Engage",
+    "chara": "MIKU",
+    "module": 9809,
+    "cos": 9009
+  },
+  {
+    "sourceModule": 260,
+    "name": "Underhanded Green",
+    "chara": "MIKU",
+    "module": 9810,
+    "cos": 9010
+  },
+  {
+    "sourceModule": 261,
+    "name": "No Mask Underhanded Green",
+    "chara": "MIKU",
+    "module": 9811,
+    "cos": 9011
+  },
+  {
+    "sourceModule": 262,
+    "name": "Pumpkin Dream",
+    "chara": "MIKU",
+    "module": 9812,
+    "cos": 9012
+  },
+  {
+    "sourceModule": 263,
+    "name": "Layered Envy",
+    "chara": "MIKU",
+    "module": 9813,
+    "cos": 9013
+  },
+  {
+    "sourceModule": 264,
+    "name": "Raspberryism",
+    "chara": "MIKU",
+    "module": 9814,
+    "cos": 9014
+  },
+  {
+    "sourceModule": 265,
+    "name": "Ambivalence",
+    "chara": "MIKU",
+    "module": 9815,
+    "cos": 9015
+  },
+  {
+    "sourceModule": 266,
+    "name": "Cantatrice",
+    "chara": "MIKU",
+    "module": 9816,
+    "cos": 9016
+  },
+  {
+    "sourceModule": 267,
+    "name": "DE:MONSTAR",
+    "chara": "MIKU",
+    "module": 9817,
+    "cos": 9017
+  },
+  {
+    "sourceModule": 268,
+    "name": "Twinkle Star",
+    "chara": "MIKU",
+    "module": 9818,
+    "cos": 9018
+  },
+  {
+    "sourceModule": 269,
+    "name": "Rockin' Stone",
+    "chara": "MIKU",
+    "module": 9819,
+    "cos": 9019
+  },
+  {
+    "sourceModule": 270,
+    "name": "Brilliant Butterfly",
+    "chara": "MIKU",
+    "module": 9820,
+    "cos": 9020
+  },
+  {
+    "sourceModule": 271,
+    "name": "Ivy Rabbit",
+    "chara": "MIKU",
+    "module": 9821,
+    "cos": 9021
+  },
+  {
+    "sourceModule": 272,
+    "name": "Ultimate Miku",
+    "chara": "MIKU",
+    "module": 9822,
+    "cos": 9022
+  },
+  {
+    "sourceModule": 273,
+    "name": "Astray",
+    "chara": "RIN",
+    "module": 9823,
+    "cos": 9000
+  },
+  {
+    "sourceModule": 274,
+    "name": "Orange Fox",
+    "chara": "RIN",
+    "module": 9824,
+    "cos": 9001
+  },
+  {
+    "sourceModule": 275,
+    "name": "Underhanded Orange",
+    "chara": "RIN",
+    "module": 9825,
+    "cos": 9002
+  },
+  {
+    "sourceModule": 276,
+    "name": "No Mask Underhanded Orange",
+    "chara": "RIN",
+    "module": 9826,
+    "cos": 9003
+  },
+  {
+    "sourceModule": 277,
+    "name": "PÃƒÂ¢tissier Gretel",
+    "chara": "RIN",
+    "module": 9827,
+    "cos": 9004
+  },
+  {
+    "sourceModule": 278,
+    "name": "Lyrical Star",
+    "chara": "RIN",
+    "module": 9828,
+    "cos": 9005
+  },
+  {
+    "sourceModule": 279,
+    "name": "Burning Stone",
+    "chara": "RIN",
+    "module": 9829,
+    "cos": 9006
+  },
+  {
+    "sourceModule": 280,
+    "name": "Pure Butterfly",
+    "chara": "RIN",
+    "module": 9830,
+    "cos": 9007
+  },
+  {
+    "sourceModule": 281,
+    "name": "Ivy Cat's Eye",
+    "chara": "RIN",
+    "module": 9831,
+    "cos": 9008
+  },
+  {
+    "sourceModule": 282,
+    "name": "Ultimate Rin",
+    "chara": "RIN",
+    "module": 9832,
+    "cos": 9009
+  },
+  {
+    "sourceModule": 283,
+    "name": "Holy Lancer",
+    "chara": "LEN",
+    "module": 9833,
+    "cos": 9000
+  },
+  {
+    "sourceModule": 284,
+    "name": "Underhanded Yellow",
+    "chara": "LEN",
+    "module": 9834,
+    "cos": 9001
+  },
+  {
+    "sourceModule": 285,
+    "name": "No Mask Underhanded Yellow",
+    "chara": "LEN",
+    "module": 9835,
+    "cos": 9002
+  },
+  {
+    "sourceModule": 286,
+    "name": "PÃƒÂ¢tissier Hansel",
+    "chara": "LEN",
+    "module": 9836,
+    "cos": 9003
+  },
+  {
+    "sourceModule": 287,
+    "name": "Radical Star",
+    "chara": "LEN",
+    "module": 9837,
+    "cos": 9004
+  },
+  {
+    "sourceModule": 288,
+    "name": "Lightning Stone",
+    "chara": "LEN",
+    "module": 9838,
+    "cos": 9005
+  },
+  {
+    "sourceModule": 289,
+    "name": "Brave Butterfly",
+    "chara": "LEN",
+    "module": 9839,
+    "cos": 9006
+  },
+  {
+    "sourceModule": 290,
+    "name": "Ivy Tomcat",
+    "chara": "LEN",
+    "module": 9840,
+    "cos": 9007
+  },
+  {
+    "sourceModule": 291,
+    "name": "Ultimate Len",
+    "chara": "LEN",
+    "module": 9841,
+    "cos": 9008
+  },
+  {
+    "sourceModule": 292,
+    "name": "Megurine Luka V4X",
+    "chara": "LUKA",
+    "module": 383,
+    "cos": 38
+  },
+  {
+    "sourceModule": 293,
+    "name": "Cathode Electronica",
+    "chara": "LUKA",
+    "module": 9842,
+    "cos": 9000
+  },
+  {
+    "sourceModule": 294,
+    "name": "Izayoi",
+    "chara": "LUKA",
+    "module": 9843,
+    "cos": 9001
+  },
+  {
+    "sourceModule": 295,
+    "name": "Villainess",
+    "chara": "LUKA",
+    "module": 9844,
+    "cos": 9002
+  },
+  {
+    "sourceModule": 296,
+    "name": "Fresh Star",
+    "chara": "LUKA",
+    "module": 9845,
+    "cos": 9003
+  },
+  {
+    "sourceModule": 297,
+    "name": "Dominant Stone",
+    "chara": "LUKA",
+    "module": 9846,
+    "cos": 9004
+  },
+  {
+    "sourceModule": 298,
+    "name": "Elegant Butterfly",
+    "chara": "LUKA",
+    "module": 9847,
+    "cos": 9005
+  },
+  {
+    "sourceModule": 299,
+    "name": "Ivy Moulin",
+    "chara": "LUKA",
+    "module": 9848,
+    "cos": 9006
+  },
+  {
+    "sourceModule": 300,
+    "name": "Ultimate Luka",
+    "chara": "LUKA",
+    "module": 9849,
+    "cos": 9007
+  },
+  {
+    "sourceModule": 301,
+    "name": "Underhanded Blue",
+    "chara": "KAITO",
+    "module": 30000,
+    "cos": 9000
+  },
+  {
+    "sourceModule": 302,
+    "name": "No Mask Underhanded Blue",
+    "chara": "KAITO",
+    "module": 30001,
+    "cos": 9001
+  },
+  {
+    "sourceModule": 303,
+    "name": "Splash Star",
+    "chara": "KAITO",
+    "module": 30002,
+    "cos": 9002
+  },
+  {
+    "sourceModule": 304,
+    "name": "Majestic Stone",
+    "chara": "KAITO",
+    "module": 30003,
+    "cos": 9003
+  },
+  {
+    "sourceModule": 305,
+    "name": "Mysterious Butterfly",
+    "chara": "KAITO",
+    "module": 30004,
+    "cos": 9004
+  },
+  {
+    "sourceModule": 306,
+    "name": "Ivy Phantom",
+    "chara": "KAITO",
+    "module": 30005,
+    "cos": 9005
+  },
+  {
+    "sourceModule": 307,
+    "name": "Ultimate KAITO",
+    "chara": "KAITO",
+    "module": 30006,
+    "cos": 9006
+  },
+  {
+    "sourceModule": 308,
+    "name": "MEIKO V3",
+    "chara": "MEIKO",
+    "module": 363,
+    "cos": 25
+  },
+  {
+    "sourceModule": 309,
+    "name": "Underhanded Red",
+    "chara": "MEIKO",
+    "module": 30007,
+    "cos": 9000
+  },
+  {
+    "sourceModule": 310,
+    "name": "No Mask Underhanded Red",
+    "chara": "MEIKO",
+    "module": 30008,
+    "cos": 9001
+  },
+  {
+    "sourceModule": 311,
+    "name": "Strawberry Witch",
+    "chara": "MEIKO",
+    "module": 30009,
+    "cos": 9002
+  },
+  {
+    "sourceModule": 312,
+    "name": "Passion Star",
+    "chara": "MEIKO",
+    "module": 30010,
+    "cos": 9003
+  },
+  {
+    "sourceModule": 313,
+    "name": "Wise Stone",
+    "chara": "MEIKO",
+    "module": 30011,
+    "cos": 9004
+  },
+  {
+    "sourceModule": 314,
+    "name": "Glamorous Butterfly",
+    "chara": "MEIKO",
+    "module": 30012,
+    "cos": 9005
+  },
+  {
+    "sourceModule": 315,
+    "name": "Ivy Grimoire",
+    "chara": "MEIKO",
+    "module": 30013,
+    "cos": 9006
+  },
+  {
+    "sourceModule": 316,
+    "name": "Ultimate MEIKO",
+    "chara": "MEIKO",
+    "module": 30014,
+    "cos": 9007
+  },
+  {
+    "sourceModule": 319,
+    "name": "Final Fusion",
+    "chara": "MIKU",
+    "module": 30015,
+    "cos": 9023
+  },
+  {
+    "sourceModule": 320,
+    "name": "White Eve",
+    "chara": "MIKU",
+    "module": 124,
+    "cos": 67
+  },
+  {
+    "sourceModule": 321,
+    "name": "No Mask Villainess",
+    "chara": "LUKA",
+    "module": 30016,
+    "cos": 9008
+  },
+  {
+    "sourceModule": 78,
+    "name": "Sakine Meiko Original",
+    "chara": "SAKINE",
+    "module": 43,
+    "cos": 0
+  },
+  {
+    "sourceModule": 95,
+    "name": "Akita Neru Original",
+    "chara": "NERU",
+    "module": 2,
+    "cos": 0
+  },
+  {
+    "sourceModule": 96,
+    "name": "Yowane Haku Original",
+    "chara": "HAKU",
+    "module": 1,
+    "cos": 0
+  },
+  {
+    "sourceModule": 97,
+    "name": "Kasane Teto Original",
+    "chara": "TETO",
+    "module": 283,
+    "cos": 0
+  },
+  {
+    "sourceModule": 195,
+    "name": "School Club Girl",
+    "chara": "NERU",
+    "module": 138,
+    "cos": 3
+  },
+  {
+    "sourceModule": 196,
+    "name": "Gothic Purple",
+    "chara": "HAKU",
+    "module": 139,
+    "cos": 3
+  },
+  {
+    "sourceModule": 197,
+    "name": "Nostalgia",
+    "chara": "SAKINE",
+    "module": 166,
+    "cos": 4
+  },
+  {
+    "sourceModule": 242,
+    "name": "M.S.J",
+    "chara": "TETO",
+    "module": 356,
+    "cos": 1
+  },
+  {
+    "sourceModule": 244,
+    "name": "Akita Neru Swimwear",
+    "chara": "NERU",
+    "module": 110,
+    "cos": 2
+  },
+  {
+    "sourceModule": 245,
+    "name": "Yowane Haku Swimwear",
+    "chara": "HAKU",
+    "module": 112,
+    "cos": 2
+  },
+  {
+    "sourceModule": 246,
+    "name": "Sakine Meiko Swimwear",
+    "chara": "SAKINE",
+    "module": 115,
+    "cos": 2
+  },
+  {
+    "sourceModule": 247,
+    "name": "Kasane Teto Swimwear",
+    "chara": "TETO",
+    "module": 382,
+    "cos": 2
+  },
+  {
+    "sourceModule": 322,
+    "name": "Snow Miku 2016",
+    "chara": "MIKU",
+    "module": 402,
+    "cos": 162
+  },
+  {
+    "sourceModule": 323,
+    "name": "Racing Miku 2016 ",
+    "chara": "MIKU",
+    "module": 2072,
+    "cos": 1072
+  },
+  {
+    "sourceModule": 324,
+    "name": "P4: Dancing All Night Miku",
+    "chara": "MIKU",
+    "module": 380,
+    "cos": 163
+  },
+  {
+    "sourceModule": 325,
+    "name": "Cabin Attendant Style A",
+    "chara": "MIKU",
+    "module": 286,
+    "cos": 122
+  },
+  {
+    "sourceModule": 326,
+    "name": "Cabin Attendant Style 39",
+    "chara": "MIKU",
+    "module": 2074,
+    "cos": 1074
+  },
+  {
+    "sourceModule": 98,
+    "name": "Snow Miku 2013",
+    "chara": "MIKU",
+    "module": 190,
+    "cos": 82
+  },
+  {
+    "sourceModule": 99,
+    "name": "Snow Miku 2013 Alt",
+    "chara": "MIKU",
+    "module": 194,
+    "cos": 85
+  },
+  {
+    "sourceModule": 248,
+    "name": "Snow Miku 2015",
+    "chara": "MIKU",
+    "module": 364,
+    "cos": 126
+  },
+  {
+    "sourceModule": 367,
+    "name": "Snow Miku 2010",
+    "chara": "MIKU",
+    "module": 68,
+    "cos": 62
+  },
+  {
+    "sourceModule": 368,
+    "name": "Snow Miku 2011",
+    "chara": "MIKU",
+    "module": 77,
+    "cos": 64
+  },
+  {
+    "sourceModule": 369,
+    "name": "Snow Miku 2012",
+    "chara": "MIKU",
+    "module": 167,
+    "cos": 65
+  },
+  {
+    "sourceModule": 370,
+    "name": "Snow Miku 2014",
+    "chara": "MIKU",
+    "module": 284,
+    "cos": 118
+  },
+  {
+    "sourceModule": 476,
+    "name": "Hatsune Miku New Type",
+    "chara": "MIKU",
+    "module": 968,
+    "cos": 302
+  }
+]

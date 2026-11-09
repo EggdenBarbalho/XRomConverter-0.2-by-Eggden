@@ -1,0 +1,538 @@
+[
+  {
+    "sourceModule": 5,
+    "module": 198,
+    "cos": 101,
+    "character": 0,
+    "name": "Lab Girl",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 14,
+    "module": 207,
+    "cos": 110,
+    "character": 0,
+    "name": "Kitty Cape",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 21,
+    "module": 214,
+    "cos": 105,
+    "character": 0,
+    "name": "Hello, Good Night.",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 22,
+    "module": 215,
+    "cos": 88,
+    "character": 0,
+    "name": "Polka Dot Bikini",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 25,
+    "module": 218,
+    "cos": 87,
+    "character": 0,
+    "name": "Running Miku",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 30,
+    "module": 221,
+    "cos": 27,
+    "character": 1,
+    "name": "Transmitter",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 33,
+    "module": 224,
+    "cos": 20,
+    "character": 1,
+    "name": "Striped Bikini",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 37,
+    "module": 228,
+    "cos": 19,
+    "character": 1,
+    "name": "Stylish Energy R",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 42,
+    "module": 231,
+    "cos": 22,
+    "character": 2,
+    "name": "Receiver",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 46,
+    "module": 235,
+    "cos": 16,
+    "character": 2,
+    "name": "Swimshorts",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 48,
+    "module": 237,
+    "cos": 15,
+    "character": 2,
+    "name": "Stylish Energy L",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 50,
+    "module": 265,
+    "cos": 19,
+    "character": 5,
+    "name": "Border Break Operator",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 59,
+    "module": 247,
+    "cos": 23,
+    "character": 3,
+    "name": "Wood Nymph",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 65,
+    "module": 252,
+    "cos": 19,
+    "character": 4,
+    "name": "General",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 68,
+    "module": 255,
+    "cos": 15,
+    "character": 4,
+    "name": "Genius",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 83,
+    "module": 273,
+    "cos": 30,
+    "character": 1,
+    "name": "Ni-no-Sakura Butterfly",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 91,
+    "module": 271,
+    "cos": 115,
+    "character": 0,
+    "name": "Rin-chan's #1 Fan",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 93,
+    "module": 278,
+    "cos": 29,
+    "character": 3,
+    "name": "Rin-chan's #2 Fan",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 101,
+    "module": 21,
+    "cos": 11,
+    "character": 0,
+    "name": "Kitty Cat",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 107,
+    "module": 135,
+    "cos": 78,
+    "character": 0,
+    "name": "Conflicted",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 115,
+    "module": 130,
+    "cos": 73,
+    "character": 0,
+    "name": "Demons and the Dead",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 120,
+    "module": 313,
+    "cos": 130,
+    "character": 0,
+    "name": "Meteorite",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 123,
+    "module": 303,
+    "cos": 133,
+    "character": 0,
+    "name": "Hana-Kotoba",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 131,
+    "module": 319,
+    "cos": 141,
+    "character": 0,
+    "name": "Urban Pop",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 138,
+    "module": 306,
+    "cos": 136,
+    "character": 0,
+    "name": "Marionette",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 142,
+    "module": 146,
+    "cos": 15,
+    "character": 1,
+    "name": "Raspberry",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 152,
+    "module": 149,
+    "cos": 10,
+    "character": 2,
+    "name": "Indigo",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 155,
+    "module": 150,
+    "cos": 11,
+    "character": 2,
+    "name": "Strangely Dark",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 163,
+    "module": 119,
+    "cos": 10,
+    "character": 3,
+    "name": "Witch Girl Style",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 171,
+    "module": 102,
+    "cos": 4,
+    "character": 4,
+    "name": "Cyber Cat",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 202,
+    "module": 103,
+    "cos": 5,
+    "character": 4,
+    "name": "KAITO Swimwear V",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 203,
+    "module": 104,
+    "cos": 6,
+    "character": 4,
+    "name": "KAITO Swimwear V Alt",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 210,
+    "module": 62,
+    "cos": 63,
+    "character": 0,
+    "name": "Hatsune Miku Christmas",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 219,
+    "module": 15,
+    "cos": 39,
+    "character": 0,
+    "name": "P-Style CG",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 221,
+    "module": 63,
+    "cos": 8,
+    "character": 1,
+    "name": "Kagamine Rin Christmas",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 224,
+    "module": 64,
+    "cos": 6,
+    "character": 2,
+    "name": "Kagamine Len Christmas",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 227,
+    "module": 65,
+    "cos": 8,
+    "character": 3,
+    "name": "Megurine Luka Christmas",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 232,
+    "module": 170,
+    "cos": 16,
+    "character": 3,
+    "name": "Megurine Luka Conflict",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 233,
+    "module": 67,
+    "cos": 7,
+    "character": 4,
+    "name": "KAITO Christmas",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 236,
+    "module": 353,
+    "cos": 36,
+    "character": 4,
+    "name": "KAITO Swimwear V Tan",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 237,
+    "module": 354,
+    "cos": 37,
+    "character": 4,
+    "name": "KAITO Swimwear V Alt Tan",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 238,
+    "module": 66,
+    "cos": 7,
+    "character": 5,
+    "name": "MEIKO Christmas",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 240,
+    "module": 162,
+    "cos": 10,
+    "character": 5,
+    "name": "Lin Xiao-Mei Costume",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 251,
+    "module": 2004,
+    "cos": 1004,
+    "character": 0,
+    "name": "Bandaged Heart",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 252,
+    "module": 2005,
+    "cos": 1005,
+    "character": 0,
+    "name": "Chopstick",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 253,
+    "module": 2006,
+    "cos": 1006,
+    "character": 0,
+    "name": "High Fever",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 260,
+    "module": 2013,
+    "cos": 1013,
+    "character": 0,
+    "name": "Underhanded Green",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 261,
+    "module": 2041,
+    "cos": 1041,
+    "character": 0,
+    "name": "No Mask Underhanded Green",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 262,
+    "module": 2014,
+    "cos": 1014,
+    "character": 0,
+    "name": "Pumpkin Dream",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 271,
+    "module": 2023,
+    "cos": 1023,
+    "character": 0,
+    "name": "Ivy Rabbit",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 275,
+    "module": 2042,
+    "cos": 1042,
+    "character": 1,
+    "name": "Underhanded Orange",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 276,
+    "module": 2043,
+    "cos": 1043,
+    "character": 1,
+    "name": "No Mask Underhanded Orange",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 281,
+    "module": 2029,
+    "cos": 1029,
+    "character": 1,
+    "name": "Ivy Cat's Eye",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 284,
+    "module": 2047,
+    "cos": 1047,
+    "character": 2,
+    "name": "Underhanded Yellow",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 285,
+    "module": 2048,
+    "cos": 1048,
+    "character": 2,
+    "name": "No Mask Underhanded Yellow",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 290,
+    "module": 2032,
+    "cos": 1032,
+    "character": 2,
+    "name": "Ivy Tomcat",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 295,
+    "module": 2054,
+    "cos": 1054,
+    "character": 3,
+    "name": "Villainess",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 299,
+    "module": 2056,
+    "cos": 1056,
+    "character": 3,
+    "name": "Ivy Moulin",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 301,
+    "module": 2037,
+    "cos": 1037,
+    "character": 4,
+    "name": "Underhanded Blue",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 302,
+    "module": 2058,
+    "cos": 1058,
+    "character": 4,
+    "name": "No Mask Underhanded Blue",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 306,
+    "module": 2062,
+    "cos": 1062,
+    "character": 4,
+    "name": "Ivy Phantom",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 309,
+    "module": 2038,
+    "cos": 1038,
+    "character": 5,
+    "name": "Underhanded Red",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 310,
+    "module": 2065,
+    "cos": 1065,
+    "character": 5,
+    "name": "No Mask Underhanded Red",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 315,
+    "module": 2068,
+    "cos": 1068,
+    "character": 5,
+    "name": "Ivy Grimoire",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 319,
+    "module": 2070,
+    "cos": 1070,
+    "character": 0,
+    "name": "Final Fusion",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 321,
+    "module": 2071,
+    "cos": 1071,
+    "character": 3,
+    "name": "No Mask Villainess",
+    "originalCloud": "Chaos"
+  },
+  {
+    "sourceModule": 370,
+    "module": 284,
+    "cos": 118,
+    "character": 0,
+    "name": "Snow Miku 2014",
+    "originalCloud": "Chaos"
+  }
+]

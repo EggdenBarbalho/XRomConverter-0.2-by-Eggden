@@ -1,0 +1,342 @@
+[
+  {
+    "module": "9800",
+    "sourceModule": 249,
+    "name": "Silent Voice"
+  },
+  {
+    "module": "9801",
+    "sourceModule": 250,
+    "name": "Anode Electronica"
+  },
+  {
+    "module": "9802",
+    "sourceModule": 251,
+    "name": "Bandaged Heart"
+  },
+  {
+    "module": "9803",
+    "sourceModule": 252,
+    "name": "Chopstick"
+  },
+  {
+    "module": "9804",
+    "sourceModule": 253,
+    "name": "High Fever"
+  },
+  {
+    "module": "9805",
+    "sourceModule": 254,
+    "name": "Sea Lily"
+  },
+  {
+    "module": "9806",
+    "sourceModule": 255,
+    "name": "Judgment"
+  },
+  {
+    "module": "9807",
+    "sourceModule": 257,
+    "name": "Pizzicato"
+  },
+  {
+    "module": "9808",
+    "sourceModule": 258,
+    "name": "Green Tanuki"
+  },
+  {
+    "module": "9809",
+    "sourceModule": 259,
+    "name": "Engage"
+  },
+  {
+    "module": "9810",
+    "sourceModule": 260,
+    "name": "Underhanded Green"
+  },
+  {
+    "module": "9811",
+    "sourceModule": 261,
+    "name": "No Mask Underhanded Green"
+  },
+  {
+    "module": "9812",
+    "sourceModule": 262,
+    "name": "Pumpkin Dream"
+  },
+  {
+    "module": "9813",
+    "sourceModule": 263,
+    "name": "Layered Envy"
+  },
+  {
+    "module": "9814",
+    "sourceModule": 264,
+    "name": "Raspberryism"
+  },
+  {
+    "module": "9815",
+    "sourceModule": 265,
+    "name": "Ambivalence"
+  },
+  {
+    "module": "9816",
+    "sourceModule": 266,
+    "name": "Cantatrice"
+  },
+  {
+    "module": "9817",
+    "sourceModule": 267,
+    "name": "DE:MONSTAR"
+  },
+  {
+    "module": "9818",
+    "sourceModule": 268,
+    "name": "Twinkle Star"
+  },
+  {
+    "module": "9819",
+    "sourceModule": 269,
+    "name": "Rockin' Stone"
+  },
+  {
+    "module": "9820",
+    "sourceModule": 270,
+    "name": "Brilliant Butterfly"
+  },
+  {
+    "module": "9821",
+    "sourceModule": 271,
+    "name": "Ivy Rabbit"
+  },
+  {
+    "module": "9822",
+    "sourceModule": 272,
+    "name": "Ultimate Miku"
+  },
+  {
+    "module": "9823",
+    "sourceModule": 273,
+    "name": "Astray"
+  },
+  {
+    "module": "9824",
+    "sourceModule": 274,
+    "name": "Orange Fox"
+  },
+  {
+    "module": "9825",
+    "sourceModule": 275,
+    "name": "Underhanded Orange"
+  },
+  {
+    "module": "9826",
+    "sourceModule": 276,
+    "name": "No Mask Underhanded Orange"
+  },
+  {
+    "module": "9827",
+    "sourceModule": 277,
+    "name": "P\u00e2tissier Gretel"
+  },
+  {
+    "module": "9828",
+    "sourceModule": 278,
+    "name": "Lyrical Star"
+  },
+  {
+    "module": "9829",
+    "sourceModule": 279,
+    "name": "Burning Stone"
+  },
+  {
+    "module": "9830",
+    "sourceModule": 280,
+    "name": "Pure Butterfly"
+  },
+  {
+    "module": "9831",
+    "sourceModule": 281,
+    "name": "Ivy Cat's Eye"
+  },
+  {
+    "module": "9832",
+    "sourceModule": 282,
+    "name": "Ultimate Rin"
+  },
+  {
+    "module": "9833",
+    "sourceModule": 283,
+    "name": "Holy Lancer"
+  },
+  {
+    "module": "9834",
+    "sourceModule": 284,
+    "name": "Underhanded Yellow"
+  },
+  {
+    "module": "9835",
+    "sourceModule": 285,
+    "name": "No Mask Underhanded Yellow"
+  },
+  {
+    "module": "9836",
+    "sourceModule": 286,
+    "name": "P\u00e2tissier Hansel"
+  },
+  {
+    "module": "9837",
+    "sourceModule": 287,
+    "name": "Radical Star"
+  },
+  {
+    "module": "9838",
+    "sourceModule": 288,
+    "name": "Lightning Stone"
+  },
+  {
+    "module": "9839",
+    "sourceModule": 289,
+    "name": "Brave Butterfly"
+  },
+  {
+    "module": "9840",
+    "sourceModule": 290,
+    "name": "Ivy Tomcat"
+  },
+  {
+    "module": "9841",
+    "sourceModule": 291,
+    "name": "Ultimate Len"
+  },
+  {
+    "module": "9842",
+    "sourceModule": 293,
+    "name": "Cathode Electronica"
+  },
+  {
+    "module": "9843",
+    "sourceModule": 294,
+    "name": "Izayoi"
+  },
+  {
+    "module": "9844",
+    "sourceModule": 295,
+    "name": "Villainess"
+  },
+  {
+    "module": "9845",
+    "sourceModule": 296,
+    "name": "Fresh Star"
+  },
+  {
+    "module": "9846",
+    "sourceModule": 297,
+    "name": "Dominant Stone"
+  },
+  {
+    "module": "9847",
+    "sourceModule": 298,
+    "name": "Elegant Butterfly"
+  },
+  {
+    "module": "9848",
+    "sourceModule": 299,
+    "name": "Ivy Moulin"
+  },
+  {
+    "module": "9849",
+    "sourceModule": 300,
+    "name": "Ultimate Luka"
+  },
+  {
+    "module": "30000",
+    "sourceModule": 301,
+    "name": "Underhanded Blue"
+  },
+  {
+    "module": "30001",
+    "sourceModule": 302,
+    "name": "No Mask Underhanded Blue"
+  },
+  {
+    "module": "30002",
+    "sourceModule": 303,
+    "name": "Splash Star"
+  },
+  {
+    "module": "30003",
+    "sourceModule": 304,
+    "name": "Majestic Stone"
+  },
+  {
+    "module": "30004",
+    "sourceModule": 305,
+    "name": "Mysterious Butterfly"
+  },
+  {
+    "module": "30005",
+    "sourceModule": 306,
+    "name": "Ivy Phantom"
+  },
+  {
+    "module": "30006",
+    "sourceModule": 307,
+    "name": "Ultimate KAITO"
+  },
+  {
+    "module": "30007",
+    "sourceModule": 309,
+    "name": "Underhanded Red"
+  },
+  {
+    "module": "30008",
+    "sourceModule": 310,
+    "name": "No Mask Underhanded Red"
+  },
+  {
+    "module": "30009",
+    "sourceModule": 311,
+    "name": "Strawberry Witch"
+  },
+  {
+    "module": "30010",
+    "sourceModule": 312,
+    "name": "Passion Star"
+  },
+  {
+    "module": "30011",
+    "sourceModule": 313,
+    "name": "Wise Stone"
+  },
+  {
+    "module": "30012",
+    "sourceModule": 314,
+    "name": "Glamorous Butterfly"
+  },
+  {
+    "module": "30013",
+    "sourceModule": 315,
+    "name": "Ivy Grimoire"
+  },
+  {
+    "module": "30014",
+    "sourceModule": 316,
+    "name": "Ultimate MEIKO"
+  },
+  {
+    "module": "30015",
+    "sourceModule": 319,
+    "name": "Final Fusion"
+  },
+  {
+    "module": "30016",
+    "sourceModule": 321,
+    "name": "No Mask Villainess"
+  },
+  {
+    "module": "2072",
+    "sourceModule": 323,
+    "name": "Racing Miku 2016"
+  }
+]
